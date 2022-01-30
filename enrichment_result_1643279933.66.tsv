@@ -1,0 +1,2225 @@
+class name	pos_pval	neg_pval
+catechols	1.0	0.194056839355
+antinematodal agents	0.163384130343	0.055401733324
+luteolytic agents	1.0	1.0
+decreased histamine release	1.0	1.0
+hypnotics (nonbenzodiazepine)	0.119916411283	1.0
+serotonin 5 ht1 receptor antagonists	0.0909147810359	0.720209197714
+hydrocarbons, brominated	0.041660512632	1.0
+cytokines	1.0	1.0
+nicotinic agonists	1.0	1.0
+valerates	1.0	1.0
+desoxycorticosterone	1.0	1.0
+histone deacetylase inhibitors	0.0679928892736	1.0
+beta lactamase inhibitors	1.0	1.0
+cytochrome p 450 cyp2c18 substrates with a narrow therapeutic index	0.191867203434	1.0
+vinca alkaloids	1.0	1.0
+deoxycytidine	1.0	1.0
+angiotensin ii receptor blockers (arbs) and diuretics	1.0	1.0
+anti estrogens	1.0	1.0
+antituberculosis agents	1.0	0.533198540937
+mineralocorticoids	1.0	1.0
+cytochrome p 450 cyp2b6 inducers (moderate)	1.0	1.0
+cyclohexanes	0.657602510142	0.720209197714
+antiemetics	0.724220021547	0.0659761740653
+metals	0.119916411283	1.0
+hydrazinophthalazine derivatives and diuretics	1.0	1.0
+testosterone and derivatives	1.0	1.0
+gaba derivative skeletal muscle relaxants	1.0	1.0
+zopiclone and prodrugs	1.0	1.0
+incretins	1.0	1.0
+dicarboxylic acids	1.0	1.0
+growth inhibitors	0.0459088286106	1.0
+phytol	1.0	1.0
+viral fusion protein inhibitors	1.0	1.0
+guanidines	1.0	1.0
+purinergic p2 receptor antagonists	1.0	1.0
+moderate risk qtc prolonging agents	0.586440260147	0.289724679762
+pyridazines	1.0	0.0177251025902
+antianginal agents	1.0	1.0
+contraceptives, postcoital	1.0	1.0
+centrally mediated muscle relaxation	1.0	1.0
+tetracyclines	1.0	0.427646128754
+hydroxybenzoate ethers	1.0	1.0
+imides	1.0	1.0
+acids, noncarboxylic	1.0	0.00900089035739
+3 oxoandrosten (4) derivatives	1.0	1.0
+anilides	1.0	1.0
+ovulation stimulants, synthetic	1.0	1.0
+gaba a receptor agonists	0.0816095435584	1.0
+semi synthetic opioids	1.0	1.0
+triethylenephosphoramide	1.0	1.0
+thyronines	1.0	1.0
+tertiary amine tricyclic antidepressants	1.0	1.0
+miotics	1.0	1.0
+natural and semisynthetic estrogens, plain	1.0	1.0
+anthracyclines and related substances	1.0	1.0
+purinones	1.0	0.578513835756
+peripheral nervous system agents	1.0	1.0
+androstenols	1.0	1.0
+acid reducers	1.0	0.508768789457
+neuropeptide y, antagonists & inhibitors	1.0	1.0
+serotonin 1b and serotonin 1d receptor agonist	1.0	1.0
+chlorides	1.0	1.0
+decreased prostaglandin production	1.0	1.0
+various alimentary tract and metabolism products	1.0	1.0
+antidepressive agents, tricyclic	0.450170011641	0.508768789457
+phosphoric acids	1.0	1.0
+erythromycin and similars	1.0	1.0
+cytochrome p 450 enzyme inducers	1.0	1.0
+anti dyskinesia agents	0.0605820701079	0.656505705601
+other miscellaneous therapeutic agents	1.0	1.0
+p glycoprotein inducers	0.609369340518	1.0
+viper venoms	1.0	1.0
+fatty acids, monounsaturated	1.0	1.0
+4 hydroxycoumarins	0.119916411283	1.0
+anions	0.42607069377	1.0
+benzopyrans	0.288166019475	1.0
+gentamicins	1.0	1.0
+pyrazolones	0.0565660297472	1.0
+folic acid and derivatives	1.0	1.0
+fatty acids, volatile	0.395980759642	0.804838339528
+phosphoramides	1.0	1.0
+methyl ethers	1.0	1.0
+alkylating activity	1.0	0.123612366778
+propylene glycols	1.0	1.0
+carbazoles	1.0	1.0
+autacoids	1.0	0.533198540937
+prostacyclin analogues	1.0	1.0
+cytochrome p 450 cyp2c8 inhibitors (strong)	0.450170011641	1.0
+tests for renal function and ureteral injuries	1.0	1.0
+amebicides	1.0	0.0492841555417
+antiobesity preparations, excl. diet products	1.0	0.366351463513
+fatty acid synthesis inhibitors	1.0	1.0
+retinoids for treatment of acne	1.0	1.0
+dna binding proteins	1.0	1.0
+nitrofuran derivatives	1.0	1.0
+decreased immunologically active molecule activity	1.0	1.0
+fluoroquinolones	1.0	0.599513248295
+teratogens	1.0	1.0
+filaricides	1.0	1.0
+caffeine and caffeine containing products	1.0	0.0493130600914
+morphinans	1.0	1.0
+fish oils	1.0	1.0
+imidazole derivatives	0.374706883877	0.427646128754
+tumor necrosis factor alpha (tnf α) inhibitors	1.0	1.0
+solutions producing osmotic diuresis	1.0	1.0
+non selective beta adrenergic agonists	1.0	1.0
+antibiotics for topical use	1.0	0.39776861793
+preparations for treatment of wounds and ulcers	1.0	1.0
+hsp90 heat shock proteins, antagonists & inhibitors	1.0	1.0
+cardiac rhythm alteration	1.0	1.0
+furocoumarins	1.0	1.0
+sensory system agents	1.0	1.0
+antineoplastic agents, hormonal	1.0	0.0634938308983
+gonadal hormones	1.0	0.619478549741
+gastric function	1.0	1.0
+nitriles	1.0	1.0
+agents against leishmaniasis and trypanosomiasis	1.0	1.0
+thiopurine analogs	0.119916411283	0.140844236136
+cytochrome p 450 cyp2c9 inhibitors (strong)	0.347352101437	0.39776861793
+ergolines	1.0	0.39776861793
+levodopa, antagonists & inhibitors	1.0	1.0
+azirines	1.0	1.0
+kidney function	1.0	1.0
+prednisolone and prodrugs	1.0	0.0962225466431
+cytochrome p 450 cyp2d6 inhibitors (weak)	0.862636905433	1.0
+nitrogen compounds	1.0	0.578513835756
+phosphatidylinositol 3 kinases, antagonists & inhibitors	1.0	1.0
+monoamine oxidase b inhibitors	1.0	0.0962225466431
+dimethylamines	1.0	1.0
+propylamines	0.31881871351	1.0
+antianemic preparations	1.0	1.0
+mtor inhibitors	1.0	1.0
+drugs for constipation	1.0	1.0
+anabolic steroids	1.0	0.223660036977
+appetite stimulants	1.0	1.0
+lipid modifying agents	0.224821411361	0.656505705601
+mixed agonist / antagonist opioids	1.0	1.0
+mercurial products	1.0	1.0
+ugt1a1 inhibitors	1.0	0.533198540937
+excitatory amino acid agents	0.289056717164	1.0
+prostaglandins e, synthetic	1.0	1.0
+umbelliferones	0.041660512632	1.0
+ugt1a1 substrates with a narrow therapeutic index	1.0	1.0
+tests for pituitary function	1.0	1.0
+glycols	1.0	0.140603325893
+isoindoles	1.0	0.183288394651
+aminopenicillins	1.0	1.0
+peroxisome proliferator receptor alpha agonist	1.0	1.0
+antitussive agents	1.0	1.0
+phenolphthaleins	1.0	1.0
+intraocular pressure, drug effects	1.0	1.0
+flavones	1.0	1.0
+antipruritics, incl. antihistamines, anesthetics, etc.	0.473271454308	0.175908065113
+aminocoumarins	1.0	1.0
+diagnostic agents	1.0	0.483076916397
+prostaglandin e1 agonist	1.0	1.0
+potassium sparing diuretics	1.0	1.0
+nitric oxide donors	1.0	1.0
+amino acids, dicarboxylic	1.0	1.0
+fibrinolytic agents	1.0	1.0
+heavy metal antagonists	1.0	1.0
+thromboxane a synthase, antagonists & inhibitors	1.0	1.0
+antimuscarinics antispasmodics	1.0	1.0
+angiotensin ii receptor blockers (arbs) and calcium channel blockers	1.0	1.0
+ccr5 receptor antagonists	1.0	1.0
+household products	1.0	1.0
+dinoprostone, antagonists & inhibitors	1.0	0.0493130600914
+agents that produce neuromuscular block (indirect)	0.757874647541	0.499009890439
+neuromuscular agents	1.0	1.0
+vitamin e	1.0	1.0
+alkanesulfonic acids	1.0	0.000502338280718
+phenoxypropanolamines	0.450170011641	1.0
+cytosine nucleotides	1.0	1.0
+central nervous system depression	0.0816095435584	1.0
+isonicotinic acids	0.191867203434	1.0
+penicillins with extended spectrum	0.347352101437	1.0
+aminosalicylic acid and derivatives	1.0	1.0
+corpus luteum hormones	1.0	1.0
+cytochrome p 450 cyp3a7 inducers (strong)	1.0	1.0
+2 chloroadenosine	0.041660512632	1.0
+estrogens, agonists	1.0	1.0
+selective beta 2 adrenergic agonists	1.0	1.0
+estren derivatives	1.0	0.26205917368
+nasal preparations	1.0	0.397083788211
+acetates	0.450170011641	1.0
+folate analog	1.0	1.0
+niflumic acid and prodrugs	1.0	1.0
+vasopressins	1.0	1.0
+p glycoprotein inhibitors	1.0	1.0
+nitrophenols	0.041660512632	1.0
+cysteine proteinase inhibitors	1.0	1.0
+aminohippuric acids	1.0	1.0
+pancreatic hormones	1.0	1.0
+corrinoids	1.0	1.0
+hydrazinophthalazine derivatives	1.0	1.0
+adamantane derivatives	1.0	1.0
+peroxisome proliferator activated receptor alpha agonists	1.0	1.0
+benzeneacetamides	1.0	1.0
+quinazolines	0.347352101437	0.39776861793
+proto oncogene proteins	1.0	1.0
+cytochrome p 450 cyp2c19 inducers (strong)	1.0	1.0
+opioid antagonists	1.0	1.0
+thyroxine binding globulin inhibitors	1.0	0.656505705601
+cytochrome p 450 cyp2b6 substrates	0.653144120748	0.268935503311
+serotonin modulators	0.140079000312	0.910290987403
+antifungals for topical use	0.053896306632	1.0
+decreased immunologic activity	1.0	1.0
+cryoprotective agents	1.0	1.0
+chlorophenols	1.0	1.0
+fertility agents	1.0	1.0
+organophosphorus compounds	1.0	0.483076916397
+nitrogen mustard compounds	1.0	1.0
+fibroblast growth factor 2, antagonists & inhibitors	1.0	1.0
+gastric acid lowering agents	1.0	0.427646128754
+steroids	1.0	1.0
+gonadal steroid hormones	1.0	0.619478549741
+anti anxiety agents	0.495415757838	0.556427444826
+receptor tyrosine kinase inhibitors	1.0	1.0
+other cold and cough preparations	1.0	1.0
+beta blocking agents, non selective, and thiazides	1.0	1.0
+catechin	1.0	1.0
+anti acne preparations for topical use	1.0	1.0
+fatty acid derivatives	1.0	1.0
+sesquiterpenes	1.0	0.26205917368
+penem antibacterial	1.0	1.0
+naphthaleneacetic acids	1.0	1.0
+miscellaneous calcium channel blocking agents	1.0	1.0
+antihypertensive agents	0.99177042529	1.0
+central alpha agonists	1.0	1.0
+oxazolidinone antibacterial	0.041660512632	1.0
+adrenergic and dopaminergic agents	0.42607069377	1.0
+cholinesterase reactivators	1.0	1.0
+contraceptive agents, female	0.593094780193	0.656505705601
+urease inhibitor	1.0	1.0
+ergotamine derivative	1.0	1.0
+oct2 inhibitors	1.0	0.679317711461
+nicotinic acids	0.400931057851	1.0
+taxoids	1.0	1.0
+reverse transcriptase inhibitors	1.0	0.39776861793
+biguanides	1.0	1.0
+beta blocking agents and thiazides	1.0	1.0
+acetic acid derivatives and related substances	0.347352101437	0.39776861793
+phthalic acids	1.0	1.0
+isobutyrates	0.191867203434	0.223660036977
+adjuvants, anesthesia	1.0	0.366351463513
+isonipecotic acids	1.0	1.0
+11 hydroxycorticosteroids	1.0	1.0
+furans	1.0	1.0
+human immunodeficiency virus nucleoside analog reverse transcriptase inhibitor	1.0	0.223660036977
+cytochrome p 450 cyp1a2 substrates	1.0	1.0
+anti asthmatic agents	0.77802743288	0.832837713037
+anti epileptic agent	1.0	1.0
+diamines	1.0	0.26205917368
+antipsoriatics	1.0	0.26205917368
+cytochrome p 450 cyp2d6 substrates	1.0	1.0
+estrogens	1.0	1.0
+phenylalanine hydroxylase activators	1.0	1.0
+neuromuscular blocking agents (nondepolarizing)	1.0	1.0
+adjuvants, pharmaceutic	1.0	1.0
+para aminobenzoates	0.42607069377	0.483076916397
+digoxin, antagonists & inhibitors	1.0	1.0
+heterocyclic compounds, fused ring	1.0	1.0
+porphyrins	1.0	1.0
+dietary supplements	1.0	1.0
+cytochrome p 450 cyp3a5 inducers (strength unknown)	1.0	1.0
+ketoses	1.0	1.0
+bsep/abcb11 inducers	1.0	1.0
+vasopressin and analogues	1.0	1.0
+psycholeptics	0.720411884671	0.178648057158
+purinergic p1 receptor agonists	1.0	1.0
+pregnenediones	1.0	1.0
+fatty acids, essential	1.0	1.0
+ophthalmological and otological preparations	1.0	0.427646128754
+urinary acidifying agents	1.0	1.0
+pyrrolidinones	0.289056717164	0.33331635393
+expectorants	1.0	1.0
+migraine disorders	1.0	1.0
+allylamines	1.0	1.0
+cytoprotective agent	1.0	1.0
+cytochrome p 450 cyp1a2 inducers (strong)	1.0	0.223660036977
+antiinflammatory products for vaginal administration	1.0	1.0
+solutions	1.0	1.0
+sulfones	0.850379888584	0.559984592203
+first generation antihistamines	1.0	1.0
+alcohols	0.605515375802	0.719561470388
+ophthalmologicals	0.696416345467	1.0
+antiplatelet agents	1.0	1.0
+therapeutic radiopharmaceuticals	1.0	1.0
+miscellaneous anticonvulsants	1.0	0.366351463513
+prostaglandins i	1.0	1.0
+restless legs syndrome	1.0	1.0
+prostaglandins e	1.0	0.140844236136
+insecticides	1.0	1.0
+cytochrome p 450 cyp1a2 inhibitors (weak)	1.0	1.0
+serotonin 5 ht2c receptor antagonists	0.712008354747	0.432183462352
+cytochrome p 450 cyp3a7 inhibitors (strength unknown)	1.0	0.533198540937
+platelet derived growth factor	1.0	1.0
+barbiturates, plain	1.0	1.0
+second generation cephalosporins	1.0	1.0
+uncompetitive n methyl d aspartate receptor antagonist	1.0	1.0
+sympathomimetics in glaucoma therapy	1.0	1.0
+enkephalins	1.0	1.0
+adrenergic agonists	0.172073657567	0.733316790908
+phenols	0.702373674807	0.553446752188
+azasteroids	1.0	1.0
+prostaglandins f, synthetic	1.0	1.0
+podophyllotoxin	1.0	1.0
+gaba agonists	0.156647666995	1.0
+nicotine, metabolism	1.0	1.0
+aldehyde reductase, antagonists & inhibitors	1.0	1.0
+insect repellents	0.041660512632	1.0
+norepinephrine reuptake inhibitor	1.0	1.0
+organothiophosphorus compounds	1.0	1.0
+penicillinase resistant penicillins	1.0	1.0
+abortifacient agents, nonsteroidal	1.0	1.0
+vitamin b12 and folic acid	1.0	1.0
+ergot alkaloids and derivatives	1.0	0.456058562264
+metals, heavy	0.119916411283	1.0
+bile acids and derivatives	1.0	1.0
+adrenergics, inhalants	1.0	1.0
+increased igg production	1.0	1.0
+cytochrome p 450 cyp2c9 inducers (weak)	0.0816095435584	1.0
+mate 2 inhibitors	1.0	1.0
+pituitary and hypothalamic hormones and analogues	1.0	1.0
+autonomic ganglionic blocker	1.0	1.0
+hydroxycorticosteroids	1.0	1.0
+antithrombins	1.0	1.0
+melatonin, agonists	1.0	1.0
+hydroxylamines	0.42607069377	1.0
+glutamine	1.0	1.0
+environmental pollutants	1.0	1.0
+cytochrome p 450 cyp2c9 inhibitors	0.341217913095	1.0
+antiemetics and antinauseants	1.0	0.0492841555417
+psoralens for topical use	1.0	1.0
+antimycotics for systemic use	1.0	1.0
+butanes	1.0	1.0
+isocyanates	1.0	1.0
+polyenes	0.374706883877	0.427646128754
+cytochrome p 450 cyp2b6 inducers (weak)	1.0	1.0
+proteasome inhibitors	1.0	0.0962225466431
+ugt1a3 substrates with a narrow therapeutic index	1.0	1.0
+picolines	1.0	1.0
+butyrophenone derivatives	0.22563635954	1.0
+replacement preparations	1.0	1.0
+hydroxypropiophenone	1.0	1.0
+oxazolidine derivatives	1.0	1.0
+isomerism	1.0	1.0
+photosensitizing agents used for phototherapy	1.0	1.0
+amino sugars	1.0	1.0
+uricosuric agents	1.0	1.0
+cyclooxygenase inhibitors	0.410914655377	0.233525591069
+purine nucleotides	1.0	1.0
+phenanthridines	1.0	1.0
+excitatory amino acids	1.0	1.0
+radiopharmaceuticals	1.0	1.0
+sulfur containing imidazole derivatives	1.0	1.0
+pharmaceutical solutions	1.0	1.0
+sensory organs	0.489539027404	1.0
+antimetabolite immunosuppressant	1.0	1.0
+receptors, n methyl d aspartate	1.0	1.0
+photoenhancer	1.0	1.0
+medicated dressings with antiinfectives	1.0	1.0
+increased medullary respiratory drive	1.0	1.0
+retinoids	0.289056717164	0.33331635393
+diarylheptanoids	1.0	0.0493130600914
+hexoses	1.0	1.0
+amino acids, aromatic	1.0	1.0
+contrast media	0.400931057851	1.0
+ethers	0.536987761025	0.599513248295
+oxygen compounds	0.156647666995	1.0
+antibiotics for pneumocystis pneumonia	1.0	0.33331635393
+phenytoin and prodrugs	1.0	1.0
+progestin antagonist	1.0	1.0
+aripiprazole and prodrugs	1.0	1.0
+acrylates	1.0	1.0
+ethylamines	0.699264126892	1.0
+miscellaneous anxiolytics sedatives and hypnotics	0.258014021047	1.0
+high ceiling diuretics	1.0	1.0
+neoplasm proteins	1.0	1.0
+glycoside hydrolase inhibitors	1.0	1.0
+antiglaucoma agents	1.0	1.0
+nitrobenzenes	1.0	1.0
+cytochrome p 450 cyp3a5 inhibitors (strong)	1.0	1.0
+estrogen agonist/antagonist	1.0	1.0
+avermectines	1.0	1.0
+tripterygium	1.0	1.0
+m2 protein inhibitors	0.0816095435584	1.0
+cytochrome p 450 cyp2e1 inhibitors (strength unknown)	0.747132545506	0.220236182662
+hypolipidemic agents	0.287761764992	0.720209197714
+transition elements	0.119916411283	1.0
+cytochrome p 450 cyp3a inhibitors	1.0	1.0
+glycyrrhetinic acid	1.0	1.0
+phenothiazines	0.516642019151	1.0
+oat1/slc22a6 substrates	1.0	0.194189654931
+ammonium ion binding activity	1.0	1.0
+root canal filling materials	1.0	1.0
+adjuvants, immunologic	0.0565660297472	1.0
+triazole derivatives	1.0	1.0
+harringtonines	1.0	0.0493130600914
+peripheral vasodilators	0.178470802916	1.0
+anesthetics, inhalation	1.0	1.0
+janus kinase inhibitors	1.0	1.0
+non potassium sparing diuretics	1.0	1.0
+genitourinary smooth muscle relaxants	1.0	1.0
+lipoglycopeptides	1.0	1.0
+inflammation mediators	1.0	0.483076916397
+preservatives, pharmaceutical	1.0	1.0
+pyrazines	1.0	1.0
+bisphosphonates	1.0	1.0
+linolenic acids	1.0	1.0
+naphthyridines	1.0	1.0
+oxazolidinones	0.0816095435584	1.0
+trihalomethanes	1.0	1.0
+fatty acids, omega 3	1.0	1.0
+fatty acids, omega 6	1.0	1.0
+chemically induced disorders	0.685964468707	1.0
+gastrointestinal acidifying agents	1.0	1.0
+aminoalkyl ethers	1.0	1.0
+biogenic monoamines	0.495415757838	0.556427444826
+antiinflammatory and antirheumatic products	0.597805518999	0.21435489546
+miscellaneous analgesics and antipyretics	1.0	1.0
+thiazide derivatives	1.0	1.0
+cyclic amp	1.0	1.0
+benzimidazole derivatives	0.191867203434	0.223660036977
+cytosine	1.0	1.0
+anticholinergic agents	0.699996089686	0.42046929669
+amino acids, essential	1.0	1.0
+ethylenediamine derivatives	1.0	1.0
+cardenolides	1.0	1.0
+decongestants and antiallergics	1.0	0.456058562264
+selective estrogen receptor modulators	1.0	1.0
+flavonols	1.0	1.0
+megestrol	1.0	1.0
+trisaccharides	1.0	1.0
+cytochrome p 450 cyp2c9 substrates with a narrow therapeutic index	0.473271454308	0.533198540937
+indicators and reagents	0.374706883877	1.0
+calcineurin inhibitors	1.0	1.0
+ethanolamines	0.575180279134	1.0
+otologicals	0.593094780193	0.656505705601
+progesterone, antagonists & inhibitors	1.0	1.0
+analgesics, non narcotic	0.472991721953	0.242680988898
+cross linking reagents	1.0	1.0
+antineoplastic agents	1.0	1.0
+organotin compounds	1.0	1.0
+sulfonamides and trimethoprim	1.0	1.0
+non selective calcium channel blockers	1.0	1.0
+cytochrome p 450 cyp2c9 substrates	1.0	1.0
+hormones and related agents	1.0	0.0373890706167
+organic nitrates	1.0	1.0
+peroxisome proliferators	1.0	1.0
+meta aminobenzoates	1.0	1.0
+miscellaneous autonomic drugs	1.0	1.0
+local anesthetics (amide)	1.0	1.0
+intestinal lipase inhibitor	1.0	0.0493130600914
+vitamin c and analogues	1.0	1.0
+cytochrome p 450 cyp2c19 inhibitors (strong)	1.0	1.0
+gonadotropin releasing hormone receptor agonists	1.0	0.00122155541994
+air pollutants	1.0	1.0
+norpregnatrienes	0.156647666995	1.0
+mouthwashes	1.0	1.0
+cytochrome p 450 cyp2d6 inhibitors (strength unknown)	0.184387815784	0.485333593979
+ugt1a9 inhibitors	1.0	1.0
+phenanthrenes	1.0	1.0
+free radical scavengers	1.0	1.0
+imidazoline receptor agonists	1.0	0.183288394651
+antimalarials	1.0	0.599513248295
+corticosteroids for systemic use, plain	1.0	0.483076916397
+gabapentin and prodrugs	1.0	1.0
+alkanesulfonates	1.0	0.0493130600914
+preparations containing sulfur	1.0	1.0
+platelet aggregation inhibitors excl. heparin	1.0	1.0
+triazolobenzodiazepines	1.0	1.0
+serotonin 5 ht2 receptor antagonists	0.62068457898	0.235820005008
+porifera	1.0	1.0
+benzylamine antifungal	1.0	1.0
+anesthetics, general	0.347352101437	0.0914226295315
+hiv fusion inhibitors	1.0	1.0
+antipruritics and local anesthetics	1.0	1.0
+drugs used in alcohol dependence	1.0	0.0102992590445
+antidepressive agents, tetracyclic	1.0	1.0
+drugs for functional gastrointestinal disorders	1.0	0.361053815943
+antiprotozoals	1.0	0.203843314132
+drugs that are mainly renally excreted with a narrow therapeutic index	0.495415757838	0.556427444826
+oct1 inhibitors	1.0	0.575285072252
+aerosols	1.0	1.0
+antifungals for dermatological use	0.053896306632	1.0
+phenobarbital and similars	1.0	1.0
+antibacterials for systemic use	0.956096238298	1.0
+tricarboxylic acids	1.0	0.0493130600914
+beta lactams	0.856491310578	0.667523626944
+vitamin k inhibitors	0.041660512632	1.0
+benzylisoquinolines	0.258014021047	1.0
+corticosteroids acting locally	1.0	0.298581046688
+solanaceous alkaloids	1.0	1.0
+cinchona alkaloids	1.0	1.0
+decreased tracheobronchial stretch receptor activity	1.0	1.0
+adjuvants	1.0	1.0
+nasal decongestants	0.289056717164	1.0
+cytidine deaminase substrates	0.191867203434	1.0
+cytochrome p 450 cyp2c9 inducers (strong)	1.0	1.0
+taxane derivatives	1.0	1.0
+decreased fibrinolysis	1.0	1.0
+cytochrome p 450 cyp2c9 inducers	0.699264126892	0.760187227978
+cytochrome p 450 cyp2c19 inducers	1.0	1.0
+acids, acyclic	0.515430257705	0.406411733168
+increased prothrombin activity	1.0	1.0
+coenzymes	0.22563635954	1.0
+lysergic acid	1.0	1.0
+nitrogen mustard analogues	1.0	1.0
+dipeptidase inhibitors	1.0	1.0
+anthracenes	1.0	1.0
+lactones	1.0	0.7475318042
+pregnadienetriols	1.0	0.23098553912
+tumour detection	1.0	1.0
+antifungals for systemic use	1.0	1.0
+gamma aminobutyric acid a receptor agonist	1.0	1.0
+anticholesteremic agents	0.0928384590318	0.456058562264
+anti inflammatory agents	1.0	1.0
+reduction activity	1.0	1.0
+tetrazoles	1.0	1.0
+aldehyde dehydrogenase inhibitor	1.0	1.0
+antiarrhythmics, class ib	1.0	1.0
+beta blocking agents and calcium channel blockers	1.0	1.0
+tocolytic agents	0.31881871351	1.0
+antiarrhythmics, class ia	1.0	0.183288394651
+imino sugars	1.0	1.0
+keratolytic agents	1.0	0.223660036977
+lipase inhibitors	1.0	0.0493130600914
+benzimidazoles	0.556488994548	0.249639236264
+drugs for treatment of tuberculosis	1.0	0.483076916397
+serotonin 5 ht1 receptor agonists	1.0	1.0
+cough and cold preparations	1.0	0.533198540937
+methylamines	1.0	1.0
+cytochrome p 450 cyp2c8 inhibitors (weak)	0.516642019151	1.0
+allylamine antifungal	0.0816095435584	1.0
+antidepressive agents	1.0	1.0
+hematinics	1.0	1.0
+cox 2 inhibitors	1.0	0.366351463513
+agents used to treat hypothyroidism	1.0	1.0
+butyrates	0.289056717164	0.33331635393
+janus kinase 3, antagonists & inhibitors	1.0	1.0
+estrogen receptor antagonists	1.0	1.0
+alkenes	0.0928384590318	0.456058562264
+sleep initiation and maintenance disorders	1.0	1.0
+edema, drug therapy	1.0	1.0
+sweetening agents	1.0	1.0
+piperidines	1.0	1.0
+histamine agonists	1.0	1.0
+inhibit ovum fertilization	1.0	1.0
+glucocorticoids	1.0	1.0
+adrenergic beta2 antagonists	1.0	1.0
+scilla glycosides	1.0	1.0
+azole antifungals	0.450170011641	1.0
+cholestanes	0.0194455492498	1.0
+barbiturates and derivatives	1.0	1.0
+leukotriene modifiers	1.0	1.0
+psoralens for systemic use	1.0	1.0
+mate 2 substrates with a narrow therapeutic index	1.0	0.0962225466431
+estradiol congeners	1.0	1.0
+biogenic amines	0.536987761025	0.599513248295
+benzodiazepine antagonist	1.0	1.0
+irritants	1.0	1.0
+renal agents	1.0	1.0
+stereoisomerism	1.0	1.0
+cholinergic receptor agonist	1.0	1.0
+mate inhibitors	1.0	0.508768789457
+sulfoxides	1.0	0.26205917368
+cytochrome p 450 cyp2a6 substrates	0.747132545506	0.482760228157
+thiocarbamide derivatives	1.0	1.0
+serotonin 1b receptor agonists	1.0	1.0
+hydrocortisone and derivatives	1.0	1.0
+neuropeptides	1.0	0.026814406279
+free radical scavenging activity	1.0	1.0
+l triiodothyronine	1.0	1.0
+sulfur compounds	1.0	1.0
+hemostatics	1.0	0.298581046688
+bronchodilator agents	0.712008354747	0.772215627179
+dietary fats	1.0	1.0
+serotonin 5 ht3 receptor antagonists	1.0	0.298581046688
+cytochrome p 450 cyp2e1 inducers (strength unknown)	0.450170011641	0.508768789457
+cytochrome p 450 cyp2c19 inhibitors (weak)	1.0	0.0295560380931
+miscellaneous antimycobacterials	1.0	1.0
+dietary cholesterol absorption inhibitor	1.0	1.0
+prostacycline vasodilator	1.0	1.0
+decreased rna replication	1.0	1.0
+gaba uptake inhibitors	1.0	1.0
+non narcotic antitussive	1.0	1.0
+piperidinedione derivatives	1.0	1.0
+calcimimetic agents	1.0	1.0
+liposomes	1.0	1.0
+membrane lipids	0.0194455492498	1.0
+stomatological preparations	0.556488994548	0.249639236264
+peptoids	1.0	1.0
+miscellaneous antifungals	1.0	1.0
+antimanic agents	1.0	1.0
+opiate partial agonists	1.0	1.0
+adrenergic alpha antagonists	0.673557072972	0.516691395067
+secologanin tryptamine alkaloids	0.400931057851	0.0232590431719
+toxiferine	1.0	1.0
+cytochrome p 450 cyp3a7 inducers (weak)	0.156647666995	1.0
+phosphodiesterase inhibitors	1.0	0.638460066676
+indoleacetic acids	1.0	1.0
+cytochrome p 450 cyp3a5 substrates with a narrow therapeutic index	0.155695764032	0.804838339528
+benzamides and benzamide derivatives	0.516642019151	0.0110467332022
+arylsulfonic acids	1.0	1.0
+isoflavones	1.0	1.0
+thiazide like diuretic	1.0	1.0
+calcineurin inhibitor immunosuppressant	1.0	1.0
+nucleosides and nucleotides	1.0	0.26205917368
+ace inhibitors and calcium channel blockers	1.0	1.0
+oct1 substrates	1.0	1.0
+indole derivatives	1.0	1.0
+calcium homeostasis	0.0816095435584	1.0
+ace inhibitors and diuretics	1.0	0.39776861793
+janus kinases, antagonists & inhibitors	1.0	1.0
+iron chelating activity	1.0	1.0
+leprostatic agents	1.0	1.0
+cytochrome p 450 cyp3a5 inducers (strong)	1.0	1.0
+bradycardia causing agents	0.828604590206	1.0
+antidiarrheals	1.0	1.0
+inhibition gastric acid secretion	1.0	1.0
+lipopeptides	1.0	1.0
+antiandrogens, non steroidal	1.0	1.0
+nitrogen binding agent	1.0	1.0
+nitrates	1.0	1.0
+antidiarrheals, intestinal antiinflammatory/antiinfective agents	1.0	0.361053815943
+direct acting antivirals	0.672085544143	0.379173763612
+psychostimulants, agents used for adhd and nootropics	1.0	0.456058562264
+abortifacient agents	1.0	1.0
+decreased striated muscle tone	1.0	1.0
+qtc prolonging agents	1.0	1.0
+benzene derivatives	1.0	1.0
+hepatitis b virus nucleoside analog reverse transcriptase inhibitor	1.0	1.0
+lipid based polyene antifungal	1.0	1.0
+ribonucleotides	1.0	1.0
+parasympatholytics	0.556488994548	0.249639236264
+progestin contraceptives	0.374706883877	0.427646128754
+urease inhibitors	1.0	1.0
+n methyl d aspartate receptor antagonist	1.0	1.0
+norepinephrine releasing agent	1.0	1.0
+cytochrome p 450 cyp3a5 inhibitors	0.787474530464	0.545794254765
+vitamin b 12, biosynthesis	1.0	1.0
+opioids	1.0	1.0
+podophyllotoxin derivatives	1.0	1.0
+acids, carbocyclic	0.25168297844	1.0
+purine derivatives	1.0	1.0
+urological agents	0.473271454308	0.533198540937
+drugs for treatment of hypoglycemia	1.0	1.0
+specific antirheumatic agents	1.0	1.0
+flavonolignans	1.0	1.0
+gonadotropin releasing hormone agonist	1.0	0.00122155541994
+cytochrome p 450 cyp2b6 inhibitors (strong)	0.258014021047	1.0
+antimycobacterials	1.0	0.556427444826
+antigonadotropins and similar agents	0.0816095435584	1.0
+beta blocking agents, non selective	0.31881871351	1.0
+benzyl compounds	1.0	0.0764366340481
+antiandrogens and estrogens	1.0	1.0
+cytochrome p 450 cyp2c8 inhibitors	0.405107698181	0.993966106999
+sodium potassium chloride symporter inhibitors	1.0	1.0
+sirolimus and prodrugs	1.0	1.0
+flavonoids	1.0	1.0
+hematologic agents	0.79652514352	1.0
+pituitary hormone releasing hormones	1.0	0.00122155541994
+clofibric acid	0.041660512632	0.0493130600914
+angiotensin ii receptor blockers (arbs), plain	1.0	1.0
+vaginal creams, foams, and jellies	1.0	1.0
+hallucinogens	1.0	1.0
+monoamine oxidase a substrates	0.22563635954	1.0
+non standardized chemical allergen	1.0	1.0
+sodium chloride symporter inhibitors	1.0	0.427646128754
+beta adrenergic agents	1.0	1.0
+salicylates	1.0	0.26205917368
+decreased dna replication	1.0	1.0
+barbiturates	1.0	1.0
+lead chelator	1.0	1.0
+coumarins	0.0361073784256	1.0
+cytochrome p 450 cyp3a4 inducers (moderate)	1.0	1.0
+sulfonamides	0.673557072972	0.516691395067
+adenosine, antagonists & inhibitors	1.0	1.0
+antiandrogens	1.0	1.0
+phthalazines	1.0	1.0
+ugt2b7 substrates	1.0	1.0
+preparations with no effect on uric acid metabolism	1.0	1.0
+cyclooxygenase 2 (cox 2) inhibitors	1.0	1.0
+quinolinium compounds	1.0	1.0
+polyketides	1.0	1.0
+monoamine oxidase a inhibitors  for interaction with monoamine oxidase a substrates	0.0416800433381	0.599513248295
+gaba a receptor antagonists	0.041660512632	1.0
+4 quinolones	1.0	1.0
+preparations inhibiting uric acid production	1.0	1.0
+p glycoprotein substrates with a narrow therapeutic index	0.62068457898	0.919167582934
+adrenergic beta antagonists	0.610264324543	1.0
+anti allergic agents	1.0	0.794512673747
+cytochrome p 450 cyp2b6 inhibitors (moderate)	1.0	0.298581046688
+peptides, cyclic	1.0	1.0
+opioid agonist/antagonist	1.0	1.0
+third generation cephalosporins	1.0	1.0
+gaba b receptor agonists	1.0	1.0
+ccr5 co receptor antagonist	1.0	1.0
+cytochrome p 450 cyp3a7 inducers (moderate)	1.0	1.0
+benzothiazepine derivatives	1.0	1.0
+herbs (hypotensive properties)	1.0	1.0
+sulfanilamides	1.0	1.0
+corticosteroids, potent (group iii)	1.0	0.508768789457
+glycine agents	1.0	0.0962225466431
+steroids, chlorinated	1.0	1.0
+alpha and beta adrenergic agonists	1.0	1.0
+strophanthus glycosides	1.0	1.0
+anorexigenic agents & respiratory and cns stimulants	1.0	0.0493130600914
+dopa and dopa derivatives	1.0	1.0
+increased diuresis at loop of henle	1.0	1.0
+cytochrome p 450 cyp1a2 inducers (strength unknown)	1.0	1.0
+nitric oxide synthase, antagonists & inhibitors	1.0	1.0
+pore forming cytotoxic proteins	1.0	1.0
+ethylene imines	1.0	1.0
+histamine agents	0.879559314238	0.712692915564
+miscellaneous skeletal muscle relaxants	1.0	1.0
+thyroxine binding globulin inducers	0.495415757838	0.556427444826
+xanthines and adrenergics	1.0	1.0
+bile therapy	0.119916411283	1.0
+organometallic compounds	0.31881871351	1.0
+fluids and secretions	1.0	1.0
+bsep/abcb11 substrates	0.776547679376	1.0
+rifamycin antimycobacterial	1.0	1.0
+proteins	1.0	0.0914226295315
+pregnadienes	1.0	0.575285072252
+ugt1a6 inhibitors	1.0	1.0
+bromobenzoates	1.0	1.0
+substituted ethylene diamines	1.0	1.0
+agents causing muscle toxicity	0.261613169539	0.226089780306
+increased sympathetic activity	1.0	1.0
+phthalimides	1.0	1.0
+bcrp/abcg2 substrates	0.472195631539	0.811330051988
+aromatic l amino acid decarboxylase inhibitors	1.0	0.140844236136
+hiv protease inhibitors	1.0	1.0
+nitroimidazoles	1.0	0.223660036977
+membrane proteins	1.0	1.0
+bodily secretions	1.0	1.0
+myelosuppressive agents	0.214216903222	0.528643429358
+membranes, artificial	1.0	1.0
+oxazocines	1.0	1.0
+insecticides and repellents	0.041660512632	1.0
+ugt2b7 inhibitors	1.0	1.0
+tetrahydronaphthalenes	1.0	1.0
+decreased sebaceous gland activity	1.0	1.0
+aniline compounds	1.0	0.905498263512
+oat3/slc22a8 substrates with a narrow therapeutic index	0.191867203434	0.223660036977
+diterpenes	0.258014021047	1.0
+rodenticides	0.041660512632	1.0
+renin inhibitors	1.0	1.0
+nucleic acids, nucleotides, and nucleosides	0.425672536121	0.246960603838
+gaba modulators	1.0	0.427646128754
+sugar acids	1.0	1.0
+norsteroids	0.473271454308	0.533198540937
+pyrrolidines	0.516642019151	0.578513835756
+cytochrome p 450 cyp3a4 inducers (strength unknown)	0.729904777449	0.285658246292
+adrenergic alpha 1 receptor agonists	0.536987761025	1.0
+comt substrates	1.0	1.0
+aryloxyacetic acid derivatives	1.0	1.0
+organophosphorous compounds	1.0	1.0
+quinazolinones	1.0	1.0
+piperazine and derivatives	1.0	1.0
+propionates	1.0	0.140603325893
+benzenesulfonates	1.0	1.0
+analogs/derivatives	1.0	1.0
+air pollutants, occupational	1.0	1.0
+onium compounds	1.0	0.533198540937
+resorcinols	1.0	1.0
+partial cholinergic nicotinic agonists	1.0	1.0
+enzyme inhibitors	1.0	1.0
+tetrahydroisoquinolines	1.0	0.183288394651
+pituitary hormones	1.0	1.0
+wakefulness promoting agents	1.0	1.0
+cytochrome p 450 cyp3a4 inducers (weak)	0.289056717164	1.0
+ergot derivative dopamine receptor agonists	1.0	1.0
+alpha galactosidase, antagonists & inhibitors	1.0	1.0
+ugt1a3 substrates	1.0	1.0
+ketones	0.0168510223205	0.689969559448
+spermatocidal agents	1.0	1.0
+biogenic polyamines	1.0	1.0
+bcrp/abcg2 inhibitors	0.573932984226	0.0266674449061
+ugt1a9 substrates	0.724220021547	0.78364770363
+increased histamine release	1.0	1.0
+sugar alcohols	1.0	1.0
+amphetamines	1.0	1.0
+biopolymers	1.0	1.0
+estrogen agonist antagonists	1.0	1.0
+amines	1.0	1.0
+carotenoids	0.289056717164	0.33331635393
+butylene glycols	1.0	0.0493130600914
+pteridines	0.22563635954	1.0
+antifibrotic agents	1.0	1.0
+biological factors	0.410914655377	0.499009890439
+nitroso compounds	1.0	1.0
+anticestodal agents	1.0	0.140844236136
+nicotinic antagonists	1.0	1.0
+gaba agents	0.224821411361	0.656505705601
+vasoconstriction	1.0	1.0
+aminoquinolines	1.0	1.0
+alkylating drugs	1.0	0.158063920238
+compounds used in a research, industrial, or household setting	1.0	1.0
+photosensitizing activity	1.0	1.0
+chlorine compounds	1.0	1.0
+organogold compounds	1.0	1.0
+erbb receptors, antagonists & inhibitors	1.0	1.0
+blood and blood forming organs	0.699264126892	0.760187227978
+nucleosides	0.33475866463	0.16901785703
+serotonin and noradrenaline reuptake inhibitors	1.0	1.0
+17 hydroxycorticosteroids	1.0	1.0
+venoms	1.0	1.0
+meglitinides	1.0	1.0
+phenylpropionates	1.0	0.26205917368
+pyrimidine nucleosides	0.495415757838	0.194056839355
+pituitary hormone release inhibiting hormones	1.0	1.0
+benzylidene compounds	1.0	1.0
+bsep/abcb11 substrates with a narrow therapeutic index	1.0	1.0
+watersoluble, hepatotropic x ray contrast media	1.0	1.0
+xanthine derivatives	0.347352101437	0.0914226295315
+antiarrhythmic agents	0.878419737733	0.987228267365
+microtubule inhibition	1.0	1.0
+adrenergic uptake inhibitors	0.119861697738	1.0
+dantrolene and derivatives	1.0	1.0
+cholinergic agonists	1.0	1.0
+miscellaneous anti infectives	1.0	1.0
+aromatase inhibitors	1.0	1.0
+glutamates	1.0	1.0
+cytochrome p 450 cyp3a4 inhibitors (strong)	1.0	0.734217094079
+androstanes	0.536987761025	1.0
+rna synthetase inhibitor antibacterial	1.0	1.0
+intercalating agents	1.0	1.0
+cytochrome p 450 cyp3a4 inhibitors (moderate)	0.303489971581	0.734217094079
+2 amino 1 phenylethanol derivatives	0.0816095435584	1.0
+miscellaneous cardiac drugs	1.0	1.0
+cytochrome p 450 cyp2c19 inhibitors (moderate)	0.0194455492498	1.0
+belladonna alkaloids, semisynthetic, quaternary ammonium compounds	1.0	1.0
+cytochrome p 450 cyp3a5 inhibitors (weak)	1.0	1.0
+glycosides	0.822740511154	0.719561470388
+tests for fat absorption	1.0	1.0
+bile acid preparations	1.0	1.0
+rna synthetase inhibitors	1.0	1.0
+adrenals	1.0	0.533198540937
+cardiac therapy	0.884729882422	0.923274676204
+benzocycloheptenes	0.0361073784256	1.0
+peptides	1.0	0.397083788211
+phosphorus compounds	1.0	0.223660036977
+anesthetics, intravenous	0.191867203434	0.223660036977
+penicillins	0.536987761025	0.599513248295
+cytochrome p 450 cyp3a7 inhibitors (moderate)	1.0	1.0
+cytochrome p 450 cyp2b6 inhibitors (strength unknown)	0.642489474774	0.342750261034
+serine proteases	1.0	1.0
+protease inhibitors	1.0	0.414760550085
+thiepins	1.0	1.0
+fibrin modulating agents	1.0	1.0
+alkylmercury compounds	1.0	1.0
+nootropic agents	1.0	1.0
+prostaglandins f	1.0	1.0
+azocines	1.0	1.0
+lipids	0.308830867059	0.653371830382
+aldehyde dehydrogenase, antagonists & inhibitors	1.0	1.0
+neuroprotective agents	0.556488994548	1.0
+peripheral alpha 1 blockers	0.347352101437	1.0
+benzofurans	1.0	1.0
+watersoluble, nephrotropic, low osmolar x ray contrast media	1.0	1.0
+hemodialysis solution	1.0	1.0
+quinolone antimicrobial	1.0	0.26205917368
+peptide hormones	1.0	0.0177251025902
+cresols	1.0	1.0
+hematopoietic stem cell mobilizer	1.0	1.0
+arteriolar smooth muscle, agents acting on	1.0	1.0
+cytochrome p 450 cyp2b6 inducers	0.79652514352	0.849259424968
+contraceptives, oral, synthetic	1.0	0.427646128754
+heptanoic acids	1.0	1.0
+ketosteroids	1.0	1.0
+sunscreen agents	1.0	1.0
+analgesics and anesthetics	0.119916411283	1.0
+organophosphates	1.0	1.0
+ethylenediamines	1.0	0.183288394651
+abortifacient agents, steroidal	1.0	1.0
+cytochrome p 450 cyp2a6 inhibitors (weak)	1.0	1.0
+increased dopamine activity	1.0	1.0
+keto acids	1.0	1.0
+pituitary hormones, posterior	1.0	1.0
+class ia phosphatidylinositol 3 kinase, antagonists & inhibitors	1.0	1.0
+digitalis glycosides	1.0	1.0
+hexanols	1.0	1.0
+antiarrhythmics, class ic	1.0	1.0
+fertility agents, female	1.0	1.0
+imidazoline derivatives	1.0	1.0
+sympatholytic (adrenergic blocking) agents	1.0	1.0
+uncompetitive nmda receptor antagonists	1.0	1.0
+enzyme inducing antiepileptic drugs	1.0	1.0
+dioxoles	1.0	1.0
+iodine (131i) compounds	1.0	1.0
+hydrocarbons, iodinated	1.0	1.0
+immunomodulatory agents	1.0	1.0
+matrix metalloproteinase inhibitors	1.0	1.0
+enzymes and coenzymes	0.289056717164	1.0
+pediculicides	1.0	1.0
+fenamates	1.0	1.0
+centrally acting antiobesity products	1.0	1.0
+folic acid analogues	1.0	1.0
+chromans	1.0	1.0
+rifamycins	1.0	1.0
+alpha and beta blocking agents and thiazides	1.0	1.0
+disinfectants	1.0	1.0
+synthetic estrogens, plain	1.0	1.0
+neurokinin 1 antagonists	1.0	0.0493130600914
+progesterone receptor modulators	1.0	1.0
+hypnotics and sedatives	0.287761764992	0.720209197714
+calcium channel blockers (dihydropyridine)	1.0	1.0
+drugs for obstructive airway diseases	0.787474530464	0.545794254765
+agents to treat airway disease	1.0	1.0
+opioid peptides	1.0	1.0
+pyridines	0.237565318605	0.982424463851
+cytochrome p 450 cyp2a6 inducers	1.0	1.0
+tests for gastric secretion	1.0	0.183288394651
+protective agents	0.229698615296	0.981466135712
+aprepitant and prodrugs	1.0	0.0493130600914
+hydroxyquinoline derivatives	1.0	1.0
+endopeptidases	1.0	1.0
+food additives	1.0	1.0
+angiogenesis modulating agents	0.0361073784256	1.0
+thiouracils	0.041660512632	1.0
+thiazolidinediones	1.0	1.0
+steroid synthesis inhibitors	0.14855336472	1.0
+cytochrome p 450 cyp2c19 inducers (moderate)	1.0	1.0
+neuraxial anesthetics	1.0	1.0
+intestinal antiinflammatory agents	1.0	0.107184805438
+cytochrome p 450 cyp2d6 inhibitors (strong)	1.0	1.0
+inflammatory bowel diseases	1.0	1.0
+platinum compounds	1.0	1.0
+anticoagulants	0.400931057851	1.0
+carbamic acid esters	1.0	1.0
+benzodiazepinones	1.0	0.223660036977
+cytochrome p 450 cyp3a4 inhibitors	1.0	1.0
+coagulants	1.0	1.0
+sympatholytics	0.495415757838	0.556427444826
+interferon inducers	1.0	1.0
+neurokinin 1 receptor antagonists	1.0	0.0493130600914
+phenothiazines with aliphatic side chain	1.0	1.0
+triiodobenzoic acids	1.0	1.0
+other antihistamines	1.0	1.0
+nucleotides, cyclic	1.0	1.0
+adrenergic beta 1 receptor antagonists	1.0	1.0
+polyene antifungal	1.0	1.0
+serotonin receptor antagonists	0.566808640785	0.270192231464
+catecholamine depleting sympatholytic	1.0	1.0
+progestational hormone receptor antagonists	1.0	1.0
+muscle relaxants	1.0	0.7475318042
+cytochrome p 450 cyp3a4 inhibitors (strength unknown)	0.805947247163	1.0
+allyl compounds	0.041660512632	1.0
+oatp1b3 inducers	0.0816095435584	1.0
+low ceiling diuretics, excl. thiazides	1.0	1.0
+ethers, chemically close to antihistamines	1.0	1.0
+basic lotions and liniments	1.0	1.0
+cytochrome p 450 enzyme inhibitors	1.0	1.0
+blood viscosity reducer	1.0	1.0
+hormone antagonists and related agents	0.42607069377	1.0
+dna (cytosine 5 ) methyltransferases, antagonists & inhibitors	1.0	1.0
+sequestering agents	1.0	0.183288394651
+ethers of tropine or tropine derivatives	0.041660512632	1.0
+decreased striated muscle contraction	1.0	1.0
+tubulin inhibiting agent	1.0	1.0
+cytochrome p 450 cyp2e1 inducers	0.450170011641	0.508768789457
+tenofovir and prodrugs	1.0	1.0
+tertiary amines	1.0	1.0
+purinergic agents	1.0	0.26205917368
+nicotine, antagonists & inhibitors	1.0	1.0
+isoquinolines	0.224821411361	0.0907852161018
+parasympathomimetics	1.0	1.0
+potassium salt	1.0	1.0
+pterins	1.0	1.0
+polyethylene glycols	1.0	1.0
+progestogens and estrogens, sequential preparations	1.0	0.483076916397
+methemoglobinemia associated agents	0.657602510142	0.720209197714
+triterpenes	1.0	1.0
+macrolides	1.0	1.0
+cytochrome p 450 cyp1a2 inhibitors (strength unknown)	0.911463440502	0.779503159784
+cytochrome p 450 cyp2c8 substrates	0.750803418642	0.490105633863
+organothiophosphates	1.0	1.0
+lactams	0.898964390404	0.752688967982
+phosphodiesterase 4 inhibitors	1.0	1.0
+neuromuscular depolarizing agents	1.0	1.0
+pentanoic acids	1.0	1.0
+17 ketosteroids	1.0	1.0
+tyrosine kinase inhibitors	0.0168069015295	0.2605181968
+antiinfectives and antiseptics for local oral treatment	0.374706883877	0.427646128754
+estrenes	0.374706883877	0.427646128754
+asthma	1.0	1.0
+selective calcium channel blockers with direct cardiac effects	1.0	1.0
+somatostatin and analogues	1.0	1.0
+cardanolides	1.0	1.0
+hypothalamic hormones	1.0	0.00472902667363
+cytochrome p 450 cyp2c19 substrates with a narrow therapeutic index	0.163384130343	0.578513835756
+mineralocorticoid receptor antagonists	1.0	1.0
+thymidylate synthase, antagonists & inhibitors	1.0	1.0
+ganciclovir and prodrug	1.0	1.0
+bone remodeling	1.0	1.0
+angiotensin ii type 1 receptor blockers	1.0	1.0
+angiotensin 2 receptor blocker	1.0	1.0
+deoxyribonucleosides	0.400931057851	0.456058562264
+triazines	1.0	1.0
+iron chelating agents	1.0	1.0
+electrolytes	0.42607069377	1.0
+kinase inhibitor	0.108051078105	0.7475318042
+fluorouracil and prodrugs	1.0	1.0
+reproductive control agents	0.45461622887	0.274176080372
+histamine receptor antagonists	0.119916411283	1.0
+mitosis modulators	1.0	0.483076916397
+pyrimidine derivatives	1.0	1.0
+loratadine and prodrug	1.0	1.0
+chromones	0.350256137453	1.0
+pyrans	0.140079000312	1.0
+oxazoles	0.400931057851	1.0
+i.v. solution additives	1.0	1.0
+capsaicin, antagonists & inhibitors	1.0	1.0
+corticosteroids, dermatological preparations	1.0	0.414760550085
+iron compounds	0.0816095435584	1.0
+oat3/slc22a8 substrates	0.415996956698	0.529118478619
+cytochrome p 450 cyp3a7 substrates with a narrow therapeutic index	0.473271454308	1.0
+serotonin 1d receptor agonists	1.0	1.0
+phenylammonium compounds	1.0	1.0
+contact laxatives	1.0	1.0
+phenothiazines with piperidine structure	1.0	1.0
+diagnostic uses of chemicals	0.400931057851	1.0
+highest risk qtc prolonging agents	1.0	0.545794254765
+cholinergic agents	0.894423472194	0.743156499546
+gold compounds	1.0	1.0
+serotonin 5 ht1a receptor antagonists	0.0676389973759	0.673661067905
+anti parkinson agents (dopamine agonist)	1.0	1.0
+nicotinic acid and derivatives	1.0	1.0
+nitric acid	1.0	1.0
+trimethyl ammonium compounds	1.0	1.0
+mood stabilizer	1.0	1.0
+x ray contrast activity	1.0	1.0
+amides	1.0	1.0
+zingiberaceae	1.0	1.0
+mutagens	1.0	1.0
+thiazepines	1.0	1.0
+anticonvulsants	1.0	0.545794254765
+mydriatics	1.0	0.366351463513
+verapamil and analogues	1.0	1.0
+dibenzothiepins	1.0	1.0
+chlorobenzenes	1.0	1.0
+ethylmercury compounds	1.0	1.0
+plant growth regulators	1.0	1.0
+aminobutyrates	1.0	1.0
+hexosamines	1.0	1.0
+propiophenones	1.0	1.0
+nipecotic acids	1.0	1.0
+oct2 substrates	1.0	1.0
+adrenergics for systemic use	1.0	1.0
+oatp1b3 inhibitors	1.0	0.772215627179
+proto oncogene proteins c sis	1.0	1.0
+oat3/slc22a8 inhibitors	0.461128362896	0.348802522273
+respiratory and cns stimulants	1.0	0.0493130600914
+carbapenems	1.0	1.0
+increased cytokine activity	1.0	1.0
+organic anion transporting polypeptide 1b3 inhibitors	1.0	1.0
+partial cholinergic nicotinic agonist	1.0	1.0
+carbamates	1.0	0.556427444826
+cromolyn sodium	1.0	1.0
+ethers, cyclic	1.0	1.0
+warfarin reversal agent	1.0	1.0
+phosphatidylinositol 3 kinase, antagonists & inhibitors	1.0	1.0
+cdc2 protein kinase, antagonists & inhibitors	1.0	1.0
+gonadotropins and antigonadotropins	1.0	0.00122155541994
+food ingredients	1.0	1.0
+intercellular signaling peptides and proteins	1.0	1.0
+intestinal antiinfectives	1.0	1.0
+interleukins	1.0	1.0
+antipyretics	1.0	1.0
+solvents	1.0	1.0
+cascara	1.0	1.0
+cytotoxic antibiotics and related substances	1.0	1.0
+hypertension, pulmonary	1.0	1.0
+drugs affecting bone structure and mineralization	1.0	1.0
+hsp90 heat shock proteins	1.0	1.0
+antiarrhythmics, class i	1.0	0.39776861793
+bile and liver therapy	0.156647666995	1.0
+benzoates	0.308830867059	0.429263735164
+angiotensin ii antagonists and diuretics	1.0	1.0
+triptans	1.0	1.0
+benzhydryl compounds	1.0	1.0
+antiarrhythmics, class v	1.0	1.0
+amino acids, acidic	1.0	1.0
+dideoxynucleosides	1.0	0.26205917368
+quinolines	0.597805518999	0.910290987403
+nonergot derivative dopamine receptor agonists	1.0	1.0
+narcotics	1.0	1.0
+cyclohexanols	1.0	1.0
+antifungal agents (vaginal)	0.258014021047	1.0
+amphenicols	1.0	1.0
+imidazole and triazole derivatives	0.0801088235808	1.0
+carbonic anhydrase inhibitors	1.0	0.26205917368
+hydrocarbons, acyclic	0.14855336472	0.00135783258714
+quinoxalines	1.0	1.0
+calcium transporting atpases, antagonists & inhibitors	1.0	1.0
+potassium channel blockers	1.0	1.0
+estrogen contraceptives	1.0	1.0
+drugs for treatment of lepra	1.0	1.0
+anthracyclines	1.0	1.0
+macrolides, lincosamides and streptogramins	1.0	1.0
+anti parathyroid agents	0.0816095435584	1.0
+deoxyuridine	1.0	1.0
+mustard compounds	1.0	1.0
+adrenergic beta 3 receptor agonists	1.0	1.0
+acids	1.0	0.00900089035739
+androstenes	0.42607069377	1.0
+carbolines	1.0	1.0
+glycolates	1.0	1.0
+anesthetics, local	0.593094780193	0.287050880519
+ergonovine	1.0	0.0493130600914
+norepinephrine, antagonists & inhibitors	0.0816095435584	1.0
+phenazines	1.0	1.0
+miscellaneous central nervous system agents	1.0	0.0764366340481
+miscellaneous therapeutic agents	1.0	0.0373890706167
+receptor, erbb 2, antagonists & inhibitors	1.0	1.0
+cytochrome p 450 cyp3a substrates	1.0	1.0
+decreased cell wall integrity	1.0	1.0
+organic anion transporting polypeptide 1b1 inhibitors	1.0	1.0
+cytochrome p 450 cyp2a6 substrates with a narrow therapeutic index	1.0	1.0
+cytochrome p 450 cyp3a5 substrates	1.0	1.0
+smoothened receptor antagonists	1.0	1.0
+phenoxyacetates	1.0	1.0
+miscellaneous general anesthetics	0.0816095435584	1.0
+mineralocorticoid (aldosterone) receptor antagonists	1.0	1.0
+sydnones	1.0	1.0
+thiocarbamates	1.0	1.0
+photoabsorption	1.0	1.0
+iodobenzoates	1.0	1.0
+centrally acting sympathomimetics	1.0	1.0
+cicatrizants	1.0	1.0
+organophosphonates	1.0	1.0
+blood glucose lowering agents	0.724220021547	1.0
+narrow therapeutic index drugs	1.0	1.0
+antimitotic agents	1.0	0.508768789457
+basic ointments and protectants	1.0	1.0
+breast cancer resistance protein inhibitors	1.0	0.223660036977
+anesthetics	0.165924654617	0.0261932149055
+progestins	0.14855336472	0.556427444826
+fibric acids	0.191867203434	0.223660036977
+fluoropyrimidines	0.156647666995	1.0
+quinolizines	1.0	1.0
+phenalenes	1.0	1.0
+antipropulsives	1.0	1.0
+naphthalenes	0.240502602453	0.673661067905
+ugt1a3 inhibitors	1.0	1.0
+heptanes	1.0	0.0493130600914
+imino pyranoses	1.0	1.0
+gold preparations	1.0	1.0
+other macrolides	1.0	1.0
+arylsulfonates	1.0	1.0
+cox 1 inhibitors	1.0	1.0
+pyrimidines	0.0164484007438	0.701898007424
+arteriolar vasodilator	1.0	1.0
+psychoanaleptics	0.242542787809	0.803774539485
+disulfides	1.0	1.0
+oct2 substrates with a narrow therapeutic index	1.0	0.183288394651
+prostaglandin receptor agonists	1.0	1.0
+hyperglycemia associated agents	0.956410836739	0.0292108378331
+norpregnanes	0.42607069377	0.483076916397
+udpglucose 4 epimerase, antagonists & inhibitors	1.0	1.0
+bretylium compounds	1.0	1.0
+decreased cell membrane integrity	1.0	1.0
+potential qtc prolonging agents	1.0	1.0
+serotonin 5 ht2a receptor antagonists	0.561625915216	0.183324769306
+drugs for peptic ulcer and gastro oesophageal reflux disease (gord)	1.0	0.287050880519
+non standardized food allergenic extract	1.0	1.0
+phosphodiesterase 3 inhibitors	1.0	1.0
+non nucleoside reverse transcriptase inhibitors	1.0	1.0
+sympathomimetic amine anorectic	1.0	1.0
+anti ulcer agents	1.0	0.673661067905
+drugs used in diabetes	0.575180279134	1.0
+growth substances	0.0059464362024	1.0
+antidote for acetaminophen overdose	1.0	1.0
+antimutagenic agents	1.0	1.0
+opioid agonist	1.0	1.0
+genitourinary arterial vasodilation	1.0	1.0
+vasodilation	1.0	1.0
+biomimetic materials	1.0	1.0
+non cox 2 selective nsaids	0.299795863543	0.398333157588
+supplements	1.0	1.0
+disaccharides	1.0	1.0
+tricyclics and other norepinephrine reuptake inhibitors	0.289056717164	1.0
+benzilates	1.0	1.0
+antineoplastic agents, alkylating	1.0	0.427646128754
+hydroxypyridones	1.0	1.0
+nucleic acid synthesis inhibitors	0.197731890187	0.545794254765
+prolactine inhibitors	1.0	1.0
+arabinonucleosides	1.0	1.0
+caloric agents	1.0	1.0
+antiplatyhelmintic agents	1.0	0.366351463513
+mate 1 substrates with a narrow therapeutic index	1.0	0.140844236136
+adrenergic antagonists	0.659271719293	0.768277261095
+muscle relaxants, centrally acting agents	1.0	0.638460066676
+serotonin receptor agonists	1.0	0.599513248295
+iodine radioisotopes	1.0	1.0
+amino acids	1.0	0.370885714776
+vesicular monoamine transporter 2 inhibitor	1.0	1.0
+anti obesity agents	1.0	0.33331635393
+agents causing hyperkalemia	1.0	1.0
+cytochrome p 450 cyp2c9 inhibitors (weak)	1.0	0.0185656126768
+somatostatin, agonists	1.0	1.0
+fluorobenzenes	0.041660512632	1.0
+intravaginal contraceptives	1.0	1.0
+mineral supplements	1.0	1.0
+cardiotoxic antineoplastic agents	0.735921068427	0.794512673747
+diketopiperazines	1.0	1.0
+free radicals	1.0	1.0
+androgens and estrogens	1.0	1.0
+butyrophenones	0.191867203434	1.0
+lipoxygenase inhibitors	1.0	1.0
+phloroglucinol	1.0	1.0
+herpesvirus nucleoside analog dna polymerase inhibitor	1.0	1.0
+benzylammonium compounds	1.0	1.0
+melanin synthesis inhibitors	1.0	1.0
+antineoplastic agents, phytogenic	1.0	0.533198540937
+thiazoles	0.33475866463	0.760187227978
+oximes	1.0	1.0
+agents for dermatitis, excluding corticosteroids	0.119916411283	1.0
+adenosine kinase, antagonists & inhibitors	1.0	1.0
+quinuclidines	1.0	0.26205917368
+adrenergic alpha 2 receptor agonists	0.575180279134	0.268344279753
+capsaicin and similar agents	1.0	1.0
+cyclohexenes	0.31881871351	0.366351463513
+ions	0.42607069377	1.0
+ionophores	1.0	1.0
+phosphoramide mustards	1.0	1.0
+oatp1b1/slco1b1 substrates	0.410914655377	0.814651156207
+aminoacridines	1.0	1.0
+agents that reduce seizure threshold	0.0354292242943	0.719561470388
+nucleoside analog antifungal	1.0	1.0
+diphenylacetic acids	1.0	1.0
+hydrazines	0.22563635954	0.26205917368
+salvia	1.0	1.0
+bone density conservation agents	0.0679928892736	1.0
+cyclodecanes	1.0	1.0
+triazoles	1.0	1.0
+endothelin receptor antagonists	1.0	1.0
+antispermatogenic agents	1.0	1.0
+sympathomimetics excl. antiglaucoma preparations	1.0	1.0
+oxadiazoles	1.0	1.0
+gaba antagonists	0.156647666995	1.0
+membrane transport modulators	0.64530325824	1.0
+opiate alkaloids	1.0	1.0
+capillary stabilizing agents	1.0	1.0
+platelet reducing agents	1.0	1.0
+succinimide derivatives	1.0	1.0
+hydrocarbons, chlorinated	1.0	1.0
+phytoestrogens	1.0	0.223660036977
+aminopyridines	1.0	1.0
+enzymes	1.0	1.0
+sulfonylureas	1.0	1.0
+cytochrome p 450 cyp3a7 inhibitors	1.0	0.720209197714
+guanidine derivatives	1.0	1.0
+qtc shortening agents	1.0	1.0
+deoxyadenosines	0.041660512632	1.0
+phosphinic acids	1.0	0.0493130600914
+central nervous system stimulants	0.400931057851	0.123612366778
+cytochrome p 450 cyp3a4 inhibitors (weak)	0.365636758107	0.194189654931
+antidotes	1.0	0.556427444826
+snake venoms	1.0	1.0
+irrigating solutions	1.0	1.0
+alkaloids	0.667714572166	0.0492550085369
+artemisinins	1.0	1.0
+venous vasodilation	1.0	1.0
+acetamides	0.191867203434	0.223660036977
+cholanes	1.0	1.0
+metal chelator	1.0	1.0
+diaminopyrimidines	1.0	1.0
+gamma aminobutyric acid ergic agonist	0.0816095435584	1.0
+glinide	1.0	1.0
+decreased protein synthesis	1.0	1.0
+minerals	1.0	1.0
+prodrugs	1.0	1.0
+flavins	0.041660512632	1.0
+sodium channel blockers	1.0	0.599513248295
+monobactams	1.0	1.0
+food	0.0993305191099	1.0
+chelating agents	1.0	0.183288394651
+sulfides	1.0	1.0
+estrogens, non steroidal	1.0	0.427646128754
+cytochrome p 450 cyp2b6 substrates with a narrow therapeutic index	1.0	0.427646128754
+aromatic amino acid decarboxylase inhibitors	1.0	0.0493130600914
+hormones, hormone substitutes, and hormone antagonists	1.0	1.0
+decreased central nervous system disorganized electrical activity	1.0	0.556427444826
+serotonergic drugs shown to increase risk of serotonin syndrome	0.348902520312	1.0
+preparations increasing uric acid excretion	1.0	1.0
+experimental unapproved treatments for covid 19	1.0	1.0
+alpha adrenoreceptor antagonists and diuretics	1.0	1.0
+osmotic laxatives	1.0	1.0
+angiotensin ii type 2 receptor blockers	1.0	1.0
+immunosuppressive agents	1.0	1.0
+marine toxins	1.0	1.0
+miscellaneous local anti infectives	1.0	0.223660036977
+pregnenes	1.0	1.0
+emetics	1.0	0.00472902667363
+pregnanes	1.0	0.577038033086
+radiation sensitizing agents	0.13402811592	0.533198540937
+androgen receptor inhibitor	1.0	1.0
+anti acne preparations for systemic use	1.0	1.0
+cannabinoid receptor antagonists	1.0	1.0
+biguanides and amidines	1.0	1.0
+natural opium alkaloids	1.0	1.0
+purinergic antagonists	1.0	0.223660036977
+migraine disorders, drug therapy	1.0	1.0
+antibiotics, antineoplastic	1.0	1.0
+mao inhibitors and diuretics	1.0	1.0
+interleukin 1	1.0	1.0
+imp dehydrogenase, antagonists & inhibitors	1.0	1.0
+methylhydrazines	1.0	0.0493130600914
+antipruritics	0.347352101437	1.0
+anabolic agents for systemic use	1.0	0.223660036977
+drugs for treatment of bone diseases	1.0	1.0
+antiarrhythmics, class iii	1.0	1.0
+ugt1a4 substrates	1.0	0.212438002138
+cytochrome p 450 cyp3a4 inducers (strong)	1.0	1.0
+amino acids, branched chain	1.0	1.0
+calcium channel blockers and diuretics	1.0	1.0
+papaverine and derivatives	1.0	1.0
+antivertigo preparations	1.0	1.0
+trace elements	1.0	1.0
+calmodulin, antagonists & inhibitors	1.0	1.0
+cyclopropanes	1.0	1.0
+miscellaneous antipsychotics	1.0	1.0
+anti retroviral agents	0.516642019151	0.578513835756
+quinoline derivatives and related substances	1.0	1.0
+fatty alcohols	1.0	0.0962225466431
+cytochrome p 450 cyp2e1 inhibitors (strong)	1.0	1.0
+glycylcyclines	1.0	1.0
+antimigraine agents, miscellaneous	1.0	1.0
+magnoliaceae	1.0	1.0
+mtor inhibitor immunosuppressant	1.0	1.0
+lactams, macrocyclic	1.0	1.0
+systemic hormonal preparations, excl. sex hormones and insulins	0.272002973038	0.705472494989
+hydrolases	1.0	1.0
+amino acids, cyclic	1.0	0.456058562264
+butanones	1.0	0.0962225466431
+aminosalicylate	1.0	0.140844236136
+pentacyclic triterpenes	1.0	1.0
+hepatotoxic agents	0.209230706852	0.638460066676
+neuropeptide y, drug effects	1.0	1.0
+salicylamides	1.0	1.0
+lead chelating activity	1.0	1.0
+udp glucuronosyltransferases inducers	1.0	1.0
+quinoline derivatives	1.0	1.0
+pharmaceutic aids	1.0	1.0
+microtubule inhibitors	1.0	1.0
+monoterpenes	1.0	1.0
+cytochrome p 450 cyp2a6 inhibitors	0.240502602453	0.305713921968
+class iv antiarrythmics	1.0	1.0
+ugt1a6 substrates with a narrow therapeutic index	1.0	1.0
+cholinesterase substrates	0.374706883877	1.0
+piper nigrum	1.0	1.0
+polysaccharides	1.0	1.0
+cephacetrile	1.0	1.0
+natural penicillins	1.0	1.0
+i.v. solutions	1.0	1.0
+cysteine	1.0	1.0
+lincosamide antibacterial	1.0	1.0
+cinnamates	1.0	1.0
+benzazepines	1.0	0.0056901155376
+receptor, cannabinoid, cb1, antagonists & inhibitors	1.0	1.0
+antiinflammatory preparations, non steroids for topical use	0.610264324543	1.0
+direct vasodilators	1.0	1.0
+propanols	0.319163092658	1.0
+14 alpha demethylase inhibitors	1.0	1.0
+tretinoin	0.0816095435584	1.0
+steroids, fluorinated	1.0	1.0
+delayed action preparations	1.0	1.0
+cholic acids	1.0	1.0
+p2y12 platelet inhibitor	1.0	1.0
+macromolecular substances	1.0	1.0
+indoles	0.125092118275	0.193495768097
+drug carriers	1.0	1.0
+miscellaneous gi drugs	1.0	0.0493130600914
+stilbenes	1.0	1.0
+arsenicals	1.0	1.0
+dihydroxyphenylalanine	1.0	1.0
+antihistamines for systemic use	0.79652514352	0.560712481973
+beta lactam antibacterials	0.593094780193	0.656505705601
+hormone antagonists	0.299795863543	1.0
+laxatives	1.0	1.0
+hypolipidemic agents indicated for hyperlipidemia	0.400931057851	1.0
+monosaccharides	1.0	1.0
+antiadrenergic agents, ganglion blocking	1.0	1.0
+miscellaneous antidepressants	1.0	1.0
+vitamin k antagonists	0.191867203434	1.0
+hydantoins	1.0	1.0
+cytochrome p 450 cyp3a7 inducers (strength unknown)	1.0	1.0
+antipsychotic agents (first generation [typical])	0.575180279134	1.0
+naphthoquinones	1.0	0.140844236136
+purines	0.468782992988	0.287912738075
+antihypertensives for pulmonary arterial hypertension	1.0	1.0
+extended spectrum penicillins	0.041660512632	1.0
+dihydropyridine derivatives	1.0	1.0
+antiparasitic products, insecticides and repellents	0.299795863543	0.0780555462137
+thioxanthenes	1.0	1.0
+fribic acid derivatives	1.0	1.0
+x ray contrast media, iodinated	1.0	1.0
+organic acids	1.0	1.0
+sulfur containing products	1.0	1.0
+linoleic acids	1.0	1.0
+oxazol, thiazine, and triazine derivatives	1.0	1.0
+piperidones	1.0	1.0
+bufanolides	1.0	1.0
+aza compounds	0.14855336472	0.194056839355
+other nonsteroidal anti inflammatory agents	0.516642019151	0.212438002138
+thyroid hormone synthesis inhibitor	0.0816095435584	1.0
+non selective monoamine reuptake inhibitors	0.450170011641	0.508768789457
+blood proteins	1.0	1.0
+cytochrome p 450 cyp1a2 inhibitors (moderate)	1.0	0.0285384748052
+melatonin, antagonists & inhibitors	1.0	1.0
+oligosaccharides	1.0	1.0
+selective calcium channel blockers with mainly vascular effects	1.0	1.0
+hydroxy acids	0.395980759642	1.0
+nf kappa b, antagonists & inhibitors	1.0	1.0
+central nervous system agents	1.0	1.0
+cytochrome p 450 substrates	1.0	1.0
+food and beverages	0.0993305191099	1.0
+increased glutathione concentration	1.0	1.0
+amino alcohols	0.38143590842	1.0
+cytochrome p 450 cyp2c9 inducers (moderate)	1.0	1.0
+sodium ionophores	1.0	1.0
+anti infective agents	1.0	1.0
+norepinephrine, serotonin, and dopamine reuptake inhibitor anorectic	1.0	1.0
+vitamins (fat soluble)	0.0117167226802	1.0
+alanine	1.0	1.0
+substituted alkylamines	1.0	1.0
+fatty acids, unsaturated	1.0	0.619478549741
+cytochrome p 450 cyp1a2 inhibitors (strong)	0.31881871351	1.0
+schizophrenia	1.0	0.0962225466431
+dietary fats, unsaturated	1.0	1.0
+cytochrome p 450 cyp2c19 substrates	0.192032386528	1.0
+cytochrome p 450 cyp3a4 substrates with a narrow therapeutic index	0.318498501671	0.663454201319
+opiate antagonists	1.0	1.0
+polymyxins	1.0	1.0
+trypanocidal agents	1.0	1.0
+vitamins	0.0168510223205	1.0
+antipsychotic agents	0.683400716167	0.146015186478
+saponins	1.0	1.0
+vasoprotectives	1.0	0.619478549741
+purinergic agonists	1.0	1.0
+flavanones	1.0	1.0
+carboxamide derivatives	1.0	1.0
+phenylcarbamates	1.0	1.0
+aminopyrine	1.0	1.0
+beta blocking agents, selective, and thiazides	1.0	1.0
+sleep aids, pharmaceutical	0.156647666995	1.0
+oxides	1.0	1.0
+respiratory system agents	0.737539120373	0.818628993721
+anti infective agents, local	0.42607069377	1.0
+benzothiazoles	1.0	1.0
+hydrogen sulfide	1.0	1.0
+androgens	1.0	0.33331635393
+aminosalicylic acids	1.0	1.0
+quinolones	0.626719453648	0.689969559448
+urea cycle disorder agents	1.0	1.0
+acridines	1.0	1.0
+amino acids, sulfur	1.0	1.0
+asteraceae	1.0	1.0
+antitrematodals	1.0	1.0
+selenium compounds	1.0	1.0
+thionucleosides	1.0	1.0
+purinergic p2y receptor antagonists	1.0	1.0
+oncogene proteins	1.0	1.0
+decreased respiratory secretion viscosity	1.0	1.0
+estrogens,antiestrogens,estrogen agonist antagonists	1.0	1.0
+dopamine uptake inhibitors	0.191867203434	1.0
+herpes simplex virus nucleoside analog dna polymerase inhibitor	1.0	1.0
+peroxisome proliferator activated receptor activity	1.0	1.0
+thioxanthene derivatives	1.0	1.0
+hypotensive agents	1.0	1.0
+polyunsaturated alkamides	1.0	1.0
+cytochrome p 450 cyp2c19 inducers (strength unknown)	1.0	1.0
+dibenzothiazepines	1.0	1.0
+oxidoreductases	1.0	1.0
+herbs and natural products	1.0	1.0
+nandrolone and esters	1.0	0.0493130600914
+ligands	1.0	1.0
+plants	1.0	1.0
+liver therapy, lipotropics	1.0	1.0
+amino acids, basic	1.0	1.0
+epoxy compounds	1.0	1.0
+cytochrome p 450 cyp2c8 inhibitors (strength unknown)	0.62068457898	0.919167582934
+drugs used in nicotine dependence	1.0	1.0
+cytochrome p 450 cyp2b6 inhibitors	0.509971024467	0.329392380492
+decreased renal k+ excretion	1.0	1.0
+cell stimulants and proliferants	1.0	1.0
+nucleotides	1.0	1.0
+coloring agents	1.0	0.223660036977
+hematologic activity alteration	1.0	1.0
+agents acting on the renin angiotensin system	1.0	0.0812070841178
+administration, topical	1.0	1.0
+neprilysin, antagonists & inhibitors	1.0	1.0
+thiazides	1.0	0.298581046688
+benzothiadiazines	1.0	0.298581046688
+indole alkaloids	0.536987761025	0.0634938308983
+janus kinase inhibitor	1.0	1.0
+hormonal contraceptives for systemic use	0.712008354747	0.772215627179
+appetite depressants	1.0	1.0
+ugt1a1 substrates	0.911463440502	0.779503159784
+purinergic p1 receptor antagonists	1.0	1.0
+receptors, vascular endothelial growth factor, antagonists & inhibitors	1.0	1.0
+mydriatics and cycloplegics	1.0	1.0
+misc. skin and mucous membrane agents	0.473271454308	0.533198540937
+adrenergic alpha 1 receptor antagonists	0.561625915216	0.384641031612
+local anesthetics (ester)	1.0	1.0
+lipid modifying agents, plain	0.14855336472	0.556427444826
+drugs for urinary frequency and incontinence	0.191867203434	0.223660036977
+menstruation inducing agents	1.0	1.0
+cephamycins	1.0	1.0
+dpp iv inhibitors	1.0	1.0
+glucans	1.0	1.0
+nitrofurans	1.0	1.0
+cytochrome p 450 cyp2c8 inhibitors (moderate)	0.108051078105	1.0
+bacitracins	1.0	1.0
+ganciclovir	1.0	1.0
+norepinephrine uptake inhibitors	1.0	1.0
+erythromycins	1.0	1.0
+decreased leukotriene production	1.0	1.0
+anti bacterial agents	1.0	1.0
+drug resistance, multiple	0.041660512632	1.0
+fats	1.0	1.0
+combination contraceptives (with estrogen and derivatives)	1.0	0.39776861793
+cytochrome p 450 cyp3a4 substrates (strength unknown)	0.747132545506	0.482760228157
+cytochrome p 450 cyp2c9 inhibitors (strength unknown)	0.684153295671	0.40026696131
+tetracycline, antagonists & inhibitors	1.0	1.0
+prostaglandin e1 analog	1.0	1.0
+angiogenesis inducing agents	1.0	1.0
+choline esters	1.0	1.0
+insulin antagonists	1.0	1.0
+cytochrome p 450 cyp1a2 inhibitors	0.898051771524	0.664748649752
+norbornanes	1.0	1.0
+muscarinic agonists	1.0	1.0
+indazoles	1.0	0.140844236136
+lignans	1.0	1.0
+anti inflammatory agents, non steroidal (non selective)	0.0433289404236	0.072499931981
+metalloendopeptidases, antagonists & inhibitors	1.0	1.0
+diphenylbutylpiperidine derivatives	1.0	1.0
+hedgehog pathway inhibitor	1.0	1.0
+ugt1a9 substrates with a narrow therapeutic index	1.0	1.0
+cytochrome p 450 cyp2c9 inhibitors (moderate)	0.031060748371	1.0
+combined inhibitors of serotonin/norepinephrine reuptake	0.593094780193	1.0
+salicylic acid derivatives	1.0	1.0
+butylpyrazolidines	0.119916411283	1.0
+increased cytokine production	1.0	1.0
+increased hematopoietic stem cell mobilization	1.0	1.0
+penicillin g	0.289056717164	1.0
+ophthalmic solutions	1.0	1.0
+respiratory smooth muscle relaxants	1.0	1.0
+digoxin, immunology	1.0	1.0
+2 pyridinylmethylsulfinylbenzimidazoles	1.0	0.183288394651
+azaspirodecanedione derivatives	1.0	1.0
+androstan derivatives	1.0	1.0
+mate 1 inhibitors	1.0	0.508768789457
+throat preparations	1.0	1.0
+diuretics	1.0	0.530534144301
+purine nucleosides	0.258014021047	1.0
+polymers	1.0	1.0
+dichloroacetamide derivatives	1.0	1.0
+aminocaproates	1.0	1.0
+plant extracts	1.0	1.0
+medicated dressings	1.0	1.0
+esters of aminobenzoic acid	1.0	1.0
+metaproterenol	1.0	1.0
+ethinyl estradiol	1.0	1.0
+antimetabolites	0.015015603739	0.246960603838
+mitomycins	1.0	1.0
+arabinonucleotides	1.0	1.0
+adamantanes	0.0816095435584	1.0
+azetines	1.0	1.0
+histamine h1 inhibitors	1.0	1.0
+macrolide antimicrobial	1.0	1.0
+nitrosoureas	1.0	1.0
+bethanechol compounds	1.0	1.0
+muscle relaxants, peripherally acting agents	1.0	1.0
+bsep/abcb11 inhibitors	0.685964468707	1.0
+antipsoriatics for topical use	1.0	1.0
+tropanes	0.22563635954	1.0
+pharmaceutical preparations	1.0	1.0
+cytochrome p 450 cyp2c8 inducers	1.0	1.0
+tetrahydropyrimidine derivatives	0.0816095435584	1.0
+antimigraine preparations	1.0	1.0
+thiadiazoles	1.0	1.0
+psychotropic drugs	0.341217913095	1.0
+androstadienes	1.0	1.0
+cyclohexanones	1.0	1.0
+ethylene glycols	1.0	1.0
+adenine nucleotides	1.0	1.0
+natriuretic agents	1.0	0.760187227978
+ganglionic stimulants	1.0	1.0
+benz(a)anthracenes	1.0	1.0
+testosterone congeners	1.0	0.26205917368
+reactive oxygen species	1.0	1.0
+thrombin inhibitors	1.0	1.0
+histamine h1 antagonists	0.328194959359	0.260544079205
+contraceptive agents, male	1.0	1.0
+ammonium compounds	1.0	0.533198540937
+nucleoside and nucleotide reverse transcriptase inhibitors	1.0	0.298581046688
+anti infective agents, urinary	1.0	1.0
+osmotic activity	1.0	1.0
+imines	1.0	0.223660036977
+disease modifying antirheumatic agents	1.0	1.0
+piperazine derivatives	1.0	0.26205917368
+beta lactamase resistant penicillins	1.0	1.0
+zearalenone	1.0	1.0
+ectoparasiticides, incl. scabicides, insecticides and repellents	0.0816095435584	1.0
+triose sugar alcohols	1.0	1.0
+cytochrome p 450 cyp2c8 substrates with a narrow therapeutic index	0.495415757838	0.556427444826
+vasoconstrictor agents	0.209230706852	1.0
+cytochrome p 450 cyp3a4 inducers	0.660442496633	1.0
+melatonin receptor agonists	1.0	1.0
+hydrocarbons, fluorinated	0.00337628245413	1.0
+gases	1.0	1.0
+progesterone and derivatives	1.0	1.0
+poly(adp ribose) polymerase inhibitors	1.0	0.183288394651
+xanthine oxidase inhibitors	1.0	1.0
+amino acids, peptides, and proteins	1.0	0.23216523949
+peripheral opioid receptor antagonists	1.0	1.0
+prostatic hyperplasia	1.0	1.0
+leukotriene antagonists	1.0	1.0
+sulfhydryl compounds	0.119916411283	0.140844236136
+antihistamine drugs	1.0	1.0
+antiallergic agents, excl. corticosteroids	1.0	0.26205917368
+dopamine agonists	1.0	1.0
+enzyme reactivators	1.0	1.0
+tryptophan	1.0	1.0
+physiological phenomena	0.075055316848	1.0
+cholestenes	0.0194455492498	1.0
+other diagnostics	1.0	1.0
+belladonna alkaloids	1.0	1.0
+cytokinins	1.0	0.0962225466431
+cytochrome p 450 cyp3a5 inhibitors (strength unknown)	1.0	0.287050880519
+boron compounds	1.0	1.0
+serotonin agents	0.318311490402	1.0
+sterols	0.0194455492498	1.0
+thalidomide analog	1.0	1.0
+indenes	0.119916411283	0.140844236136
+cephaloridine	1.0	1.0
+calcium channel blockers (nondihydropyridine)	1.0	1.0
+aminopeptidases, antagonists & inhibitors	1.0	1.0
+porphyrin precursor	1.0	1.0
+pyrimidine nucleotides	1.0	1.0
+thyroid hormone synthesis inhibitors	0.0816095435584	1.0
+oat1/slc22a6 inhibitors	0.286234715009	0.619237232955
+analgesics	0.667852690286	1.0
+opium alkaloids and derivatives	1.0	1.0
+renal dehydropeptidase inhibitor	1.0	1.0
+protein kinase c, antagonists & inhibitors	1.0	1.0
+sympathomimetics	0.350256137453	1.0
+pesticides	0.0679928892736	0.39776861793
+piperazines	0.117061550406	0.760187227978
+amino acids, diamino	1.0	1.0
+elements	0.119916411283	1.0
+antidiuretic agents	1.0	1.0
+fructose	1.0	1.0
+mate 1 substrates	1.0	0.123612366778
+mate substrates	1.0	0.123612366778
+oligopeptides	1.0	0.0492841555417
+hydroxyquinolines	1.0	1.0
+tetrahydrofolates	1.0	1.0
+detoxifying agents for antineoplastic treatment	1.0	1.0
+anti parkinson drugs	0.287761764992	0.361053815943
+photoactivated radical generator	1.0	1.0
+thiophenes	0.400931057851	0.456058562264
+monoamine oxidase inhibitors	0.0361672706982	0.212438002138
+radiographic contrast agent	1.0	1.0
+antimicrobial cationic peptides	1.0	1.0
+enemas	1.0	1.0
+ugt1a9 inducers	1.0	1.0
+rifamycin antibacterial	1.0	1.0
+factor xa inhibitors	1.0	1.0
+antidepressive agents, second generation	0.473271454308	0.533198540937
+alcohol deterrents	1.0	0.0102992590445
+corticosteroids, moderately potent (group ii)	1.0	1.0
+nitroimidazole derivatives	1.0	0.183288394651
+vitamin b complex	0.374706883877	1.0
+alkanes	1.0	0.000130369493438
+cytochrome p 450 cyp3a5 inhibitors (moderate)	1.0	1.0
+dental agents	1.0	1.0
+increased calcium sensing receptor sensitivity	1.0	1.0
+photosensitizing agents	1.0	1.0
+antiadrenergic agents, centrally acting	1.0	0.00552213161608
+decreased platelet aggregation	1.0	1.0
+cytochrome p 450 cyp2e1 inhibitors (weak)	1.0	1.0
+anthraquinones	1.0	1.0
+dopamine d1 receptor agonists	1.0	1.0
+central nervous system stimulation	1.0	0.0962225466431
+muscarinic antagonists	0.546639472037	0.250985003699
+polyamines	1.0	0.33331635393
+angiotensin receptor antagonists	1.0	1.0
+hydroxymethylglutaryl coa reductase inhibitors	0.31881871351	1.0
+corticosteroid hormone receptor agonists	1.0	0.466197913636
+increased diuresis	1.0	1.0
+chlorobenzoates	1.0	0.223660036977
+prostaglandin antagonists	1.0	1.0
+agents for treatment of hemorrhoids and anal fissures for topical use	1.0	0.556427444826
+cyclosporins	1.0	1.0
+alimentary tract and metabolism	1.0	1.0
+benzylamines	1.0	1.0
+nitro compounds	0.400931057851	0.456058562264
+estrogen antagonists	1.0	1.0
+leucomycins	1.0	1.0
+immunologic factors	0.0476934515393	0.482760228157
+noxae	0.199101310339	0.164197979365
+synthetic anticholinergics, esters with tertiary amino group	1.0	1.0
+calcium compounds	1.0	1.0
+sympathomimetics, labour repressants	0.119916411283	1.0
+drugs used in addictive disorders	1.0	0.00360513803982
+morphinan derivatives	1.0	1.0
+glycopeptide antibacterials	1.0	1.0
+sympathomimetic like agent	1.0	1.0
+fibroblast growth factors	1.0	1.0
+cholinesterase inhibitors	1.0	0.841258194812
+toxins, biological	1.0	1.0
+cyclohexylamines	1.0	1.0
+coccidiostats	1.0	1.0
+glycoconjugates	1.0	1.0
+agents that produce hypertension	1.0	1.0
+cytochrome p 450 cyp2e1 substrates	0.536278362524	0.630083260679
+morpholines	1.0	0.33331635393
+prostaglandins, synthetic	1.0	0.33331635393
+topoisomerase i inhibitors	1.0	1.0
+naphthalenesulfonates	1.0	1.0
+trefoil factors	1.0	1.0
+synthetic anticholinergics, quaternary ammonium compounds	1.0	0.0492841555417
+cytochrome p 450 cyp2a6 inhibitors (strength unknown)	0.400931057851	0.123612366778
+cytochrome p 450 cyp2c9 inducers (strength unknown)	1.0	0.638460066676
+arteriolar vasodilation	1.0	1.0
+neurotransmitter uptake inhibitors	0.0622041232413	1.0
+acetyl aldehyde dehydrogenase inhibitors	1.0	1.0
+gynecological antiinfectives and antiseptics	0.737539120373	0.371882555337
+xanthenes	1.0	1.0
+serotonin 3 receptor antagonists	1.0	0.223660036977
+cytochrome p 450 cyp3a5 inducers	1.0	1.0
+formyltetrahydrofolates	1.0	1.0
+lipid regulating agents	0.287761764992	0.361053815943
+proto oncogene proteins c met, antagonists & inhibitors	1.0	1.0
+radiopharmaceutical activity	1.0	1.0
+sympathomimetic (adrenergic) agents	1.0	1.0
+harmala alkaloids	1.0	1.0
+tubulin modulators	1.0	0.456058562264
+proton ionophores	1.0	1.0
+ophthalmics	1.0	0.140844236136
+histamine antagonists	0.396343051361	0.329519001852
+oils	1.0	1.0
+antioxidants	1.0	1.0
+tranquilizing agents	0.769167085941	0.111230919372
+micronutrients	0.053896306632	1.0
+cytochrome p 450 cyp3a4 substrates	1.0	1.0
+adrenergic beta 1 receptor agonists	0.191867203434	1.0
+cyclohexanecarboxylic acids	1.0	1.0
+antiseptics and disinfectants	1.0	1.0
+nitroimidazole antimicrobial	1.0	0.140844236136
+oxytocin and analogues	1.0	1.0
+blood substitutes and perfusion solutions	1.0	1.0
+ugt1a6 inducer	1.0	1.0
+4 butyrolactone	1.0	1.0
+low ceiling diuretics and potassium sparing agents	1.0	0.26205917368
+anti inflammatory agents, non steroidal	0.280068623437	0.213795084512
+uncoupling agents	1.0	1.0
+epithelial sodium channel blockers	1.0	1.0
+amino acids and derivatives	1.0	1.0
+inducers of drug clearance	1.0	1.0
+antirheumatic agents	0.624019133114	0.178920695335
+depigmenting agents	1.0	1.0
+phosphorus acids	1.0	0.223660036977
+adrenergic alpha 2 receptor antagonists	1.0	1.0
+antihypertensive agents indicated for hypertension	1.0	0.946788396712
+pyridones	0.191867203434	1.0
+estradiol, agonists	1.0	1.0
+cytolytic agent	1.0	1.0
+adrenal cortex hormones	0.882601261743	0.430536537301
+oatp1b3 substrates	1.0	1.0
+cytochrome p 450 cyp3a5 inducers (moderate)	1.0	1.0
+agents causing angioedema	1.0	0.100813355074
+androstenediols	1.0	1.0
+janus kinase 2, antagonists & inhibitors	1.0	1.0
+cytochrome p 450 cyp3a7 substrates	0.676008468527	0.590213696193
+spiro compounds	1.0	1.0
+hormones	0.894373683879	0.285658246292
+ectoparasiticides, incl. scabicides	1.0	1.0
+acetanilides	1.0	1.0
+radiation protective agents	1.0	1.0
+anthelmintics	0.25624026224	0.689969559448
+drugs used in opioid dependence	1.0	0.0493130600914
+diphenylmethane derivatives	1.0	1.0
+cytochrome p 450 cyp2c19 inhibitors	0.500912394839	0.144408503604
+purine analogues	0.0194455492498	0.223660036977
+mesylates	1.0	0.0493130600914
+cephalosporins	1.0	0.656505705601
+human immunodeficiency virus integrase strand transfer inhibitor	0.0816095435584	1.0
+aziridines	1.0	1.0
+antipsychotic agents (second generation [atypical])	1.0	0.00331304096447
+5 alpha reductase inhibitors	1.0	1.0
+pregnadien derivatives	1.0	1.0
+organic cation transporter 1 inhibitors	1.0	1.0
+antihistamines for topical use	1.0	1.0
+monokines	1.0	1.0
+glycopeptides	1.0	1.0
+pigments, biological	0.119861697738	0.508768789457
+ergot derived dopamine receptor agonist	1.0	1.0
+cytochrome p 450 cyp2e1 inhibitors (moderate)	0.119916411283	1.0
+caproates	1.0	1.0
+organic anion transporter 1 inhibitors	1.0	1.0
+ortho aminobenzoates	1.0	1.0
+antipsoriatics for systemic use	1.0	0.183288394651
+prokinetic agents	1.0	1.0
+receptors, neurotransmitter	0.041660512632	1.0
+protein kinase inhibitors	0.180452593823	0.743156499546
+anthracycline topoisomerase inhibitor	1.0	1.0
+uterotonic agents	1.0	0.0373890706167
+gonadotropin releasing hormone receptor agonist	1.0	0.00122155541994
+neurotransmitter agents	1.0	1.0
+direct acting skeletal muscle relaxants	1.0	1.0
+comt inhibitors	0.156647666995	1.0
+vitamin a	0.119916411283	1.0
+miscellaneous derivatives	1.0	1.0
+ergotamines	1.0	1.0
+antineoplastic and immunomodulating agents	1.0	1.0
+vitamin k	1.0	1.0
+benzophenones	0.119916411283	1.0
+cytochrome p 450 cyp2c19 inhibitors (strength unknown)	0.894423472194	0.268935503311
+anticarcinogenic agents	1.0	1.0
+anti acne preparations	1.0	1.0
+monobactam antibacterial	1.0	1.0
+cell mediated immunity	1.0	1.0
+non selective alfa adrenergic blocking agents	1.0	1.0
+benzoquinones	1.0	1.0
+cytomegalovirus nucleoside analog dna polymerase inhibitor	1.0	1.0
+phenol and derivatives	1.0	1.0
+phosphodiesterase 5 inhibitors	1.0	0.39776861793
+cytochrome p 450 cyp3a inducers (strong)	0.450170011641	1.0
+antiinfectives for systemic use	1.0	1.0
+calcium sensing receptor agonist	1.0	1.0
+potassium compounds	1.0	1.0
+anti dementia drugs	1.0	1.0
+aporphines	1.0	1.0
+detergents	1.0	1.0
+drugs, chinese herbal	1.0	1.0
+cannabinoids and similars	1.0	1.0
+antithyroid agents	0.119916411283	1.0
+belladonna alkaloids, tertiary amines	1.0	1.0
+potassium channel antagonists	1.0	1.0
+cytochrome p 450 cyp3a inducers	0.538329532678	1.0
+vitamin e, analogs & derivatives	1.0	1.0
+benzamidines	1.0	1.0
+trimethoprim and derivatives	1.0	1.0
+dermatologicals	1.0	1.0
+imidazolidines	1.0	1.0
+methanolquinolines	1.0	1.0
+benzodiazepine hypnotics and sedatives	0.258014021047	0.298581046688
+azepines	1.0	1.0
+cytochrome p 450 cyp1a2 inducers	1.0	0.705472494989
+decreased sympathetic activity	1.0	1.0
+ribonucleotide reductases, antagonists & inhibitors	1.0	1.0
+biologics for rheumatoid arthritis treatment	1.0	1.0
+corticosteroids	1.0	0.642909260801
+dihydropyridines	1.0	1.0
+antibiotics, antitubercular	1.0	1.0
+hippurates	1.0	1.0
+roentgenography	1.0	1.0
+proto oncogene proteins b raf, antagonists & inhibitors	1.0	1.0
+dioxanes	1.0	1.0
+parasympathomemetic (cholinergic) agents	1.0	1.0
+terpenes	0.410914655377	0.233525591069
+human platelet derived growth factor	1.0	1.0
+cytochrome p 450 cyp1a2 inducers (weak)	1.0	1.0
+alkynes	1.0	1.0
+dibenzoxepins	1.0	1.0
+atropine derivatives	1.0	1.0
+indans	1.0	1.0
+cyclic amines	0.041660512632	1.0
+dibenzocycloheptenes	0.22563635954	1.0
+nucleoside reverse transcriptase inhibitors	1.0	0.33331635393
+epinephrine and similars	1.0	1.0
+nerve tissue proteins	1.0	0.026814406279
+peptide hydrolases	1.0	1.0
+decreased autonomic ganglionic activity	1.0	1.0
+iron preparations	1.0	1.0
+posterior pituitary lobe hormones	1.0	1.0
+cytochrome p 450 cyp2d6 inhibitors	1.0	1.0
+peroxides	1.0	1.0
+diuretics, osmotic	1.0	1.0
+thyroxine binding globulin substrates	1.0	1.0
+progesterone congeners	0.156647666995	1.0
+cytochrome p 450 cyp2c8 inducers (strong)	1.0	1.0
+belladonna and derivatives, plain	1.0	1.0
+cytochrome p 450 cyp2a6 inhibitors (strong)	0.191867203434	1.0
+depigmenting activity	1.0	1.0
+alzheimer disease	1.0	1.0
+retinoids for treatment of psoriasis	1.0	0.0962225466431
+retinoids for topical use in acne	1.0	1.0
+diagnostic radiopharmaceuticals	1.0	1.0
+thyroid products	0.22563635954	1.0
+caffeic acids	1.0	1.0
+corticosteroids for local oral treatment	1.0	0.223660036977
+peripherally acting antiobesity products	1.0	0.0493130600914
+cyclin dependent kinases, antagonists & inhibitors	1.0	0.223660036977
+drugs used in erectile dysfunction	1.0	1.0
+dopamine agents	0.515430257705	0.632582595374
+hydrazides	1.0	1.0
+boronic acids	1.0	1.0
+naphthacenes	1.0	0.556427444826
+cardiotonic agents	0.0361672706982	0.578513835756
+convulsants	0.191867203434	0.223660036977
+sulfathiazoles	1.0	1.0
+hexamethonium compounds	1.0	1.0
+angiotensin ii antagonists and calcium channel blockers	1.0	1.0
+emesis suppression	1.0	1.0
+antianemia drugs	1.0	1.0
+sulfur acids	1.0	0.00216305178523
+nucleoside analog antiviral	1.0	0.183288394651
+aminoketone	1.0	1.0
+actinomycines	1.0	1.0
+succinimides	1.0	1.0
+cardiovascular agents	1.0	1.0
+increased large intestinal motility	1.0	1.0
+neuromuscular nondepolarizing blockade	1.0	1.0
+poisons	1.0	0.0493130600914
+leukemia, myelogenous, chronic, bcr abl positive	1.0	1.0
+integrase inhibitors	0.041660512632	1.0
+antidepressive agents, triazolopyridine	0.0816095435584	1.0
+angiogenesis inhibitors	0.0459088286106	1.0
+cytochrome p 450 cyp2b6 inducers (strong)	1.0	1.0
+bcrp/abcg2 inducers	1.0	1.0
+biphenyl compounds	1.0	1.0
+hydrocarbons, halogenated	0.0361672706982	1.0
+biological products	1.0	1.0
+phenylurea compounds	1.0	1.0
+dibenzoxazepines	1.0	1.0
+artemisinin and derivatives, plain	1.0	1.0
+human immunodeficiency virus 1 non nucleoside analog reverse transcriptase inhibitor	1.0	1.0
+hiv integrase inhibitors	0.0816095435584	1.0
+complex mixtures	1.0	1.0
+thienopyridines	1.0	1.0
+ototoxic agents	1.0	1.0
+p glycoprotein substrates	1.0	1.0
+liver therapy	1.0	1.0
+drugs used in benign prostatic hypertrophy	1.0	0.223660036977
+bile acids and salts	1.0	1.0
+salicylanilides	1.0	1.0
+colitis, ulcerative	1.0	1.0
+eicosanoids	1.0	0.483076916397
+drugs causing inadvertant photosensitivity	0.710046625733	1.0
+amino acids, neutral	1.0	1.0
+antiviral agents	0.425672536121	0.514937200491
+deuterium	1.0	1.0
+anesthetics for topical use	0.258014021047	0.0492841555417
+monoamine oxidase inhibitors, non selective	0.191867203434	1.0
+antiglaucoma preparations and miotics	0.610264324543	0.673661067905
+central nervous system depressants	1.0	1.0
+serotonin 5 ht1d receptor antagonists	1.0	1.0
+ganglion blockers	1.0	1.0
+triiodothyronine	1.0	1.0
+standardized chemical allergen	1.0	1.0
+fourth generation cephalosporins	1.0	1.0
+agents producing tachycardia	1.0	1.0
+antitrichomonal agents	1.0	1.0
+cytochrome p 450 cyp2a6 inducers (moderate)	1.0	1.0
+ugt2b7 substrates with a narrow therapeutic index	1.0	1.0
+dipeptides	1.0	1.0
+clomiphene	1.0	1.0
+amaryllidaceae alkaloids	1.0	1.0
+isoxazoles	1.0	1.0
+thiazines	1.0	0.397083788211
+artemisia	1.0	1.0
+thrombocytosis	1.0	1.0
+short acting sulfonamides	1.0	1.0
+iodinated contrast agents	1.0	1.0
+agrochemicals	0.0679928892736	0.39776861793
+food preservatives	1.0	1.0
+guanidine derivatives and diuretics	1.0	1.0
+fatty acids	0.702373674807	0.78786760836
+antiparasitic agents	0.769167085941	0.23216523949
+thiouracil	0.041660512632	1.0
+sigma 1 agonist	1.0	1.0
+amp activated protein kinases, antagonists & inhibitors	1.0	1.0
+substance p/neurokinin 1 receptor antagonist	1.0	0.0493130600914
+mycophenolic acid and prodrugs	1.0	1.0
+pyrazoles	0.209230706852	0.638460066676
+prostaglandin analogs reducing intraocular pressure (iop)	1.0	1.0
+contraceptives, oral	0.495415757838	0.556427444826
+lincomycins	1.0	1.0
+benzoxazoles	1.0	1.0
+hypoglycemia associated agents	0.468782992988	1.0
+curare alkaloids	1.0	1.0
+aminobenzoates	0.642489474774	0.705472494989
+cytochrome p 450 cyp2e1 inhibitors	0.549073632964	0.370885714776
+protein lysine 6 oxidase, antagonists & inhibitors	1.0	1.0
+azabicyclo compounds	1.0	0.123612366778
+cytochrome p 450 cyp3a5 inducers (weak)	1.0	1.0
+dibenzazepines	1.0	0.39776861793
+topoisomerase ii inhibitors	1.0	0.734217094079
+acetaminophen and prodrugs	1.0	1.0
+cytochrome p 450 cyp3a7 inhibitors (strong)	1.0	1.0
+prostaglandins	1.0	0.427646128754
+glucosides	1.0	1.0
+amidines	1.0	1.0
+beta lactamase sensitive penicillins	1.0	1.0
+cardiac stimulants excl. cardiac glycosides	0.495415757838	1.0
+first generation cephalosporins	1.0	0.223660036977
+anti hiv agents	0.536987761025	0.599513248295
+corticosteroids for systemic use	1.0	0.556427444826
+vitamin d and analogues	0.0194455492498	1.0
+cytochrome p 450 cyp2a6 inducers (strong)	1.0	1.0
+cytochrome p 450 cyp3a7 inducers	0.31881871351	1.0
+nephrotoxic agents	0.682350897189	1.0
+antivirals for treatment of hcv infections	1.0	0.0962225466431
+ribonucleosides	0.209230706852	0.268344279753
+scabicides and pediculicides	1.0	0.0962225466431
+corticosteroids, very potent (group iv)	1.0	1.0
+propanolamines	0.319163092658	1.0
+peroxisome proliferator receptor gamma agonist	1.0	1.0
+hydroxybenzoates	1.0	1.0
+adrenergic beta agonists	0.272002973038	1.0
+decreased platelet production	1.0	1.0
+cytochrome p 450 cyp2c8 inducers (strength unknown)	1.0	1.0
+reversed anticoagulation activity	1.0	1.0
+oxazines	0.536987761025	0.0634938308983
+ugt1a4 inhibitors	1.0	1.0
+voltage gated sodium channel blockers	1.0	0.456058562264
+anesthetics, dissociative	1.0	1.0
+cytochrome p 450 cyp2b6 inhibitors (weak)	1.0	1.0
+flavoring agents	1.0	1.0
+scopolamine derivatives	1.0	1.0
+acyclovir and prodrug	1.0	1.0
+arginine	1.0	1.0
+cytochrome p 450 cyp2b6 inducers (strength unknown)	0.724220021547	0.78364770363
+organomercury compounds	1.0	1.0
+purine antimetabolite	0.0816095435584	1.0
+benzodiazepines and benzodiazepine derivatives	1.0	0.26205917368
+antifibrinolytic agents	1.0	1.0
+antineovascularisation agents	1.0	1.0
+phenylalkylamine derivatives	1.0	1.0
+drugs that are mainly renally excreted	1.0	1.0
+4 butyrolactone, analogs & derivatives	1.0	1.0
+antiinflammatory and antirheumatic products, non steroids	0.573932984226	0.193495768097
+molluscacides	1.0	1.0
+histamine h2 antagonists	1.0	0.0914226295315
+veterinary drugs	1.0	1.0
+antiadrenergic agents, peripherally acting	1.0	1.0
+miscellaneous antilipemic agents	1.0	1.0
+endocrine therapy	0.536987761025	0.23098553912
+decreased blood pressure	1.0	1.0
+cardiac glycosides	1.0	1.0
+mast cell stabilizers	1.0	1.0
+oxidation reduction agent	1.0	1.0
+estranes	0.374706883877	0.427646128754
+dopamine, metabolism	1.0	1.0
+monoamine oxidase a inhibitors	1.0	1.0
+eent drugs, miscellaneous	1.0	1.0
+bunolol	1.0	1.0
+stimulation large intestine fluid/electrolyte secretion	1.0	1.0
+excitatory amino acid antagonists	0.31881871351	1.0
+carbohydrates	0.886651800021	0.816311359061
+oatp1b1/slco1b1 inhibitors	0.865053905114	0.985015347182
+bis trimethylammonium compounds	1.0	1.0
+beta blocking agents, selective	1.0	1.0
+nervous system	1.0	1.0
+calcium regulating hormones and agents	1.0	1.0
+ethanolamine derivatives	1.0	1.0
+protein synthesis inhibitors	0.642489474774	0.122120716975
+adrenergic agents	0.405107698181	0.993966106999
+mate 2 substrates	1.0	0.33331635393
+gastrointestinal agents	0.9583093003	0.0313362215139
+angiotensin converting enzyme inhibitors	1.0	0.0232590431719
+neuromuscular blocking agents	1.0	1.0
+nasal decongestants for systemic use	1.0	1.0
+imidazoles	0.509971024467	0.603384140074
+antihelminthic	0.191867203434	0.223660036977
+toxic actions	0.0692324789864	0.138346104162
+hydroxamic acids	1.0	1.0
+radioactive diagnostic agent	1.0	1.0
+chloroacetates	1.0	1.0
+tests for diabetes	1.0	1.0
+ocular vascular disorder agents	1.0	1.0
+p38 mitogen activated protein kinases, antagonists & inhibitors	1.0	1.0
+dopamine antagonists	0.720411884671	0.0784496120574
+myeloablative agonists	1.0	0.223660036977
+estrogen receptor modulators	1.0	1.0
+selective serotonin 5 ht1 receptor agonists	1.0	1.0
+cytochrome p 450 cyp2c18 substrates	0.163384130343	0.578513835756
+aminoglycoside antibacterials	1.0	1.0
+selective serotonin agonists	1.0	1.0
+vesicular monoamine transporter 2 inhibitors	1.0	1.0
+phenethylamines	0.593094780193	1.0
+selective beta 1 adrenergic agonists	1.0	1.0
+proton pump inhibitors	1.0	0.223660036977
+phenylalanine hydroxylase activator	1.0	1.0
+salicylic acid and derivatives	1.0	1.0
+musculo skeletal system	0.886651800021	0.637880768955
+calcium channel blockers	0.8433759935	1.0
+cosmetics	1.0	1.0
+smoking cessation agents	1.0	1.0
+alpha and beta blocking agents	1.0	1.0
+nmda receptor antagonists	0.347352101437	1.0
+androstanols	1.0	1.0
+corticosteroids, weak (group i)	1.0	0.183288394651
+sulfonamide antibacterial	1.0	1.0
+triazenes	1.0	1.0
+antifungal agents	0.440243091611	1.0
+laboratory chemicals	0.347352101437	1.0
+vasodilating agents	0.770418832083	0.992519246268
+progestin containing intrauterine device	1.0	1.0
+propylamine derivatives	1.0	1.0
+high ceiling diuretics and potassium sparing agents	1.0	1.0
+pyrimidine analogues	0.0679928892736	1.0
+appetite suppression	1.0	1.0
+long acting sulfonamides	1.0	1.0
+vasodilators used in cardiac diseases	1.0	1.0
+propulsives	1.0	1.0
+serotonin 5 ht2 receptor agonists	1.0	0.223660036977
+sensitizers used in photodynamic/radiation therapy	1.0	1.0
+norpregnenes	1.0	0.366351463513
+phenylacetates	1.0	1.0
+cytochrome p 450 cyp1a2 inducers (moderate)	1.0	1.0
+carcinogens	1.0	1.0
+protein serine threonine kinases, antagonists & inhibitors	1.0	1.0
+local anesthesia	1.0	1.0
+map kinase kinase 1, antagonists & inhibitors	1.0	1.0
+phenylalanine	1.0	1.0
+digoxin and derivatives	1.0	1.0
+nucleosides and nucleotides excl. reverse transcriptase inhibitors	1.0	1.0
+neurotoxic agents	0.684153295671	0.40026696131
+estrogenic steroids, alkylated	1.0	1.0
+selective serotonin reuptake inhibitors	0.119861697738	1.0
+folic acid antagonists	1.0	1.0
+autonomic agents	1.0	1.0
+acid sensing ion channel blockers	1.0	1.0
+cycloparaffins	0.45461622887	0.545794254765
+pregnadienediols	1.0	1.0
+drug delivery systems	1.0	1.0
+diet, food, and nutrition	0.0993305191099	1.0
+mycotoxins	1.0	1.0
+ugt1a6 substrate	1.0	1.0
+mouthwashes and gargles	1.0	1.0
+hemorrheologic agents	1.0	1.0
+lincosamides	1.0	1.0
+selective alfa 1 adrenergic blocking agents	1.0	1.0
+cytochrome p 450 cyp2e1 substrates with a narrow therapeutic index	1.0	1.0
+herpes zoster virus nucleoside analog dna polymerase inhibitor	1.0	1.0
+investigative techniques	1.0	1.0
+increased norepinephrine activity	1.0	1.0
+nitric oxide synthase	1.0	1.0
+electrolyte solutions	1.0	1.0
+nonnucleoside reverse transcriptase inhibitors	1.0	1.0
+tryptamines	1.0	1.0
+secosteroids	0.0194455492498	1.0
+strophanthins	1.0	1.0
+adrenergic alpha agonists	0.176350553031	0.514937200491
+phenothiazines with piperazine structure	1.0	1.0
+cholinergic nicotinic agonist	1.0	1.0
+cytochrome p 450 cyp2d6 substrates with a narrow therapeutic index	0.626719453648	0.324292629566
+antigout preparations	1.0	1.0
+actinomycin	1.0	1.0
+opiate agonists	1.0	1.0
+serine protease inhibitors	1.0	1.0
+cytochrome p 450 cyp1a2 substrates with a narrow therapeutic index	0.108051078105	0.7475318042
+intermediate acting sulfonamides	1.0	1.0
+secondary and tertiary amines	1.0	1.0
+nitrosourea compounds	1.0	1.0
+quaternary ammonium compounds	1.0	0.456058562264
+hiv integrase	1.0	1.0
+dopamine d2 receptor antagonists	0.642571051363	0.116323130569
+levulinic acids	1.0	1.0
+fused ring compounds	1.0	1.0
+topical products for joint and muscular pain	0.657602510142	1.0
+cytochrome p450 17a1 inhibitors	0.041660512632	1.0
+genito urinary system and sex hormones	1.0	1.0
+schistosomicides	1.0	1.0
+thienamycins	1.0	1.0
+selective cyclooxygenase 2 inhibitors (nsaids)	0.450170011641	0.158063920238
+sympathomimetics, plain	1.0	1.0
+antiinfectives for treatment of acne	1.0	1.0
+polyphenols	1.0	1.0
+diazepines, oxazepines, thiazepines and oxepines	1.0	0.026814406279
+sex hormones and modulators of the genital system	0.712008354747	0.772215627179
+cytochrome p 450 cyp2d6 inhibitors (moderate)	0.425672536121	0.823976296705
+cholagogues and choleretics	1.0	1.0
+catecholamines	1.0	0.39776861793
+drugs for acid related disorders	1.0	0.287050880519
+cytochrome p 450 cyp3a7 inhibitors (weak)	1.0	1.0
+sympathomimetics used as decongestants	1.0	1.0
+antivirals for systemic use	0.672085544143	0.379173763612
+quinones	1.0	0.456058562264
+cytochrome p 450 cyp2a6 inhibitors (moderate)	1.0	1.0
+pyrimidinones	0.0928384590318	1.0
+phenyl ethers	0.450170011641	0.508768789457
+nucleoside metabolic inhibitor	0.0679928892736	0.39776861793
+indolequinones	1.0	1.0
+central alpha 2 adrenergic agonist	1.0	1.0
+oxicams	1.0	0.140844236136
+anabolic agents	1.0	0.298581046688
+phenothiazine derivatives	0.119916411283	1.0
+influenza a m2 protein inhibitor	0.0816095435584	1.0
+cytochrome p 450 cyp2c8 inducers (weak)	1.0	1.0
+histamine h1 antagonists, non sedating	1.0	0.107184805438
+stimulants	1.0	1.0
+miscellaneous antiprotozoals	1.0	0.0102992590445
+adrenergic beta 2 receptor agonists	1.0	1.0
+oat3/slc22a8 inducers	1.0	1.0
+sulfonic acids	1.0	0.00216305178523
+topoisomerase inhibitors	1.0	0.772215627179
+decreased cell wall synthesis & repair	1.0	1.0
+selective immunosuppressants	0.22563635954	1.0
+imidazolines	1.0	0.183288394651
+oatp1b1/slco1b1 inducers	1.0	1.0
+ugt1a1 inducers	1.0	1.0
+decreased mitosis	1.0	1.0
+beta blockers (beta1 selective)	1.0	1.0
+androgen receptor antagonists	1.0	1.0
+plant preparations	1.0	1.0
+surface active agents	1.0	1.0
+map kinase kinase 2, antagonists & inhibitors	1.0	1.0
+imino acids	1.0	0.183288394651
+sigma 1 receptor agonists	1.0	1.0
+decreased cholesterol absorption	1.0	1.0
+n substituted glycines	1.0	1.0
+miscellaneous vasodilatating agents	0.191867203434	1.0
+urologicals	0.575180279134	0.638460066676
+iodobenzenes	1.0	1.0
